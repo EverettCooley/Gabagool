@@ -25,7 +25,7 @@ def createIndex(dirPath):
 
 	# Create new schema object in index dir, init writer
 	schema = NewSchema()
-	ix = index.create_in("indexdir",schema)
+	ix = index.create_in("myIndex",schema)
 	writer = ix.writer()
  
  	# Get list of file paths in our directory to index
@@ -96,7 +96,7 @@ def main():
 		os.mkdir("myIndex")
 		ix = createIndex("pages")
 	else:
-		ix = index.open_dir("indexdir")
+		ix = index.open_dir("myIndex")
 
 	#getUserInput(ix)
 
