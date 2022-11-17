@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<link rel="stylesheet" href= "{{ url_for('static',filename='../static/css/main.css') }}">
+		<title>The Gabagool</title>
+	</head>
+
+	<body>
+		<form method="get" action="{{ url_for('results') }}">
+			<label for="searchterm">The Gabagool</label><br/>
+			<!-- <input type="text" name="searchterm" /><br /> -->
+			<input type="text" name='test'/>
+			<input type="submit" value="Go" />
+		</form>	
+
+		<!-- <a href="/my-link/">Hello World</a> -->
+	</body>	
+</html>
