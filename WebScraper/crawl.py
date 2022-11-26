@@ -20,7 +20,7 @@ import pickle
 # Que is initialized with our seeds, linkDict will hold urls and their links
 # Visited will store all the pages we have been to so we don't do it twice and scraped will store pages scraped
 #que = ['https://recipes.fandom.com/wiki/Alfredo_Sauce']
-que = ['https://recipes.fandom.com/wiki/Special:AllPages']
+que = ['https://recipes.fandom.com/wiki/Recipes_Wiki']
 linkDict = {}
 visited = set()
 scraped = set()
@@ -32,7 +32,9 @@ noVisit = {
 	'UserLogin': '2',
 	'edit': '3',
 	'CreatePage': '4',
-	'&oldid=': '5'  
+	'&oldid=': '5',
+	'Special:Contributions': '6',
+	'action=history': '7'  
 }
 
 def main():
@@ -46,8 +48,8 @@ def main():
 
 	
 	# Check if our directory for our page files exists
-	if not os.path.isdir('files'):
-		os.makedirs('files')
+	if not os.path.isdir('pages'):
+		os.makedirs('pages')
 
 	#st = time.time()
 	pageCount = 0
@@ -57,8 +59,9 @@ def main():
 		# If we haven't reached desired pages and haven't visited page attempt to get page
 		if len(scraped) < int(maxPages):
 			if que[0] not in visited:
+				print(pageCount)
 				pageCount += getPage(que[0], pageCount)
-				time.sleep(3)
+				time.sleep(1.5)
 			else:
 				
 				que.pop(0)
@@ -79,7 +82,7 @@ def getPage(url, pageCount):
 	# Make sure link is not one of the restricted links specified in noVisit
 	#if urlparse(url).netloc != BASE_DOMAIN or vetUrl(url) == False:
 	if vetUrl(url) == False:
-		print('---- NAH BITCH ---')
+		print('---- Do Not Need ---')
 		que.pop(0)
 		return(0)
 
@@ -125,15 +128,16 @@ def getPage(url, pageCount):
 			if bs.find('ul', class_='categories') is not None:
 				categories = bs.find('ul', class_='categories').get_text(', ', strip=True)[14:]
 			else:
-				print('not that guy pal')
 				categories = '' #lil silly but works 
 			
 			# Call function to write contents of page
 			writePage(pageText, url, categories, imgageList)
+			scraped.add(url)
+			#pageCount += 1
 			
 		except:
 			print('Not recipe Page')
-		scraped.add(url)
+		#scraped.add(url)
 	else:
 		que.pop(0)
 		return(0)
@@ -174,7 +178,7 @@ def writePage(text, fileName, categories, imgageList):
 		fileName = fileName[0:251]
 
 	# Open directory to store files then write contents to files	
-	with open(f'files/{fileName}.txt' ,'w') as f:
+	with open(f'pages/{fileName}.txt' ,'w') as f:
 		f.write(f'Link: {url}\n\n')
 		f.write(text.replace('[ ]', ':')) # Get rid of annoying brackets
 
@@ -195,20 +199,20 @@ def createMatrix():
 	# Create list of sets where each set contains a key and a link
 	# Then convert the list to a dataframe and use crosstab to get our adjacency matrix
 	# ******* CAN REMOVE OR COMMENT OUT LATER KEEPING FOR SCRAPING ***********
-	with open('linkDictionary.pickle', 'wb') as handle:
-		pickle.dump(linkDict, handle, protocol=-1)
-	with open('myque.pickle', 'wb') as h:
-		pickle.dump(que, h, protocol=-1)
-	with open('visit.pickle', 'wb') as h:
-		pickle.dump(visited, h, protocol=-1)
-	with open('scraped.pickle', 'wb') as h:
-		pickle.dump(scraped, h, protocol=-1)
+	# with open('linkDictionary.pickle', 'wb') as handle:
+	# 	pickle.dump(linkDict, handle, protocol=-1)
+	# with open('myque.pickle', 'wb') as h:
+	# 	pickle.dump(que, h, protocol=-1)
+	# with open('visit.pickle', 'wb') as h:
+	# 	pickle.dump(visited, h, protocol=-1)
+	# with open('scraped.pickle', 'wb') as h:
+	# 	pickle.dump(scraped, h, protocol=-1)
 	linkSets = [(j,k) for j , i in linkDict.items() for k in i]
 	df = pandas.DataFrame(linkSets)
 	matrix = pandas.crosstab(df[0], df[1])
 
 	# Write adjacency matrix to csv file
-	matrix.to_csv('matrix.csv')
+	matrix.to_csv('matrix3.csv')
 	#print('Sample of Matrix:')
 	#print(matrix.iloc[0:9, 0:3])
 
