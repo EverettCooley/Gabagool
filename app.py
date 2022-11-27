@@ -50,8 +50,6 @@ def results():
         temp = description.split('\n', 1)
         urls.append(temp[0][6:])
         description = temp[1]
-        print(description)
-
         current_desc = ''
         for word in query.split():
             result = find_substring(description, word)
@@ -67,6 +65,9 @@ def results():
     print("Alternatively, the second box has: " + test)
  
     return render_template('results.html', query=query, results=zip(urls, contents))
+    print("Someone")
+
+
 
 
 def find_substring(base, term):
@@ -81,10 +82,7 @@ class MyWhooshSearcher(object):
     def __init__(self):
         #self.indexer = index.open_dir('myIndex')
         super(MyWhooshSearcher, self).__init__()
-
-
-
-        
+  
     def search(self, queryEntered):
         title = list()
         description = list()
