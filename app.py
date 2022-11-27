@@ -63,11 +63,52 @@ def results():
 
     print("You searched for: " + query)
     print("Alternatively, the second box has: " + test)
+
+    spelling_correction = find_word_corrections(query, mySearcher.reader)
+    print(spelling_correction)
  
-    return render_template('results.html', query=query, results=zip(urls, contents))
-    print("Someone")
+    return render_template('results.html', query=query, results=zip(urls, contents), spelling_correction=spelling_correction)
 
 
+
+# corrects spelling of query
+def find_word_corrections(q, reader):
+    print("Finding word corrections for: " + q)
+    q = q.strip().split()
+    corrections = []
+    correction_indexs = set()
+    i = 0
+    for word in q:
+        word = word.lower()
+        top_freq, top_word = 0, ""
+        matches = reader.terms_within("textdata", text=word, maxdist=1, prefix=1)
+        for match in matches:
+            term_frequecy = term_freq(match, reader)
+            if term_frequecy > top_freq:
+                top_freq = term_frequecy
+                top_word = match
+
+        if top_word != "" and top_word != word:
+            corrections.append(top_word)
+            correction_indexs.add(i)
+        i+=1
+
+    result = ""
+    if len(corrections) > 0:
+        result = 'Did you mean: " '
+        for i in range(len(q)):
+            if i in correction_indexs:
+                result += str(corrections.pop(0)) + " "
+            else:
+                result += str(q[i]) + " "
+        result += '" ?'
+    print("result = ", result)
+    return result
+
+
+# helper function of find_word_corrections
+def term_freq(term, reader):
+    return reader.frequency("textdata", term)
 
 
 def find_substring(base, term):
@@ -80,54 +121,32 @@ def find_substring(base, term):
 class MyWhooshSearcher(object):
     """docstring for MyWhooshSearcher"""
     def __init__(self):
-        #self.indexer = index.open_dir('myIndex')
+        self.ix = whoosh.index.open_dir('myIndex')
+        self.reader = self.ix.reader()
         super(MyWhooshSearcher, self).__init__()
   
     def search(self, queryEntered):
         title = list()
         description = list()
-        
-        # Created our own indexer for now. Could init in constructor later
         indexer = whoosh.index.open_dir("myIndex")
-
-
+        
         with indexer.searcher() as search:
             query = MultifieldParser(['title', 'textdata'], schema=indexer.schema)
-            # query = query.parse(queryEntered)
             query = query.parse(queryEntered)
 
-            # Set limit to 10 will need to change later as we display 10 per page not 10 total
             results = search.search(query, limit=10)
             
-            # Getting list of titles and page content
             for x in results:
                 title.append(x['title'])
                 description.append(x['textdata'])
             
         return title, description
 
-    # ****** DON'T NEED THIS ********
-    # ****** SEE HW4 FOLDER FOR BUILDING INDEX *****
-    # def index(self):
-    #     schema = Schema(id=ID(stored=True), title=TEXT(stored=True), description=TEXT(stored=True))
-    #     indexer = create_in('myIndex', schema)
-    #     writer = indexer.writer()
-
-    #     writer.add_document(id=u'1', title=u'hello there', description=u'cs hello, how are you')
-    #     writer.add_document(id=u'2', title=u'hello bye', description=u'nice to meetcha')
-    #     writer.commit()
-
-    #     self.indexer = indexer
-
-# indexer = index()
-# search(indexer, 'nice')
 
 if __name__ == '__main__':
     global mySearcher
     mySearcher = MyWhooshSearcher()
     mySearcher.index()
-    #title, description = mySearcher.search('hello')
-    #print(title)
     app.run(debug=True)
 
 
