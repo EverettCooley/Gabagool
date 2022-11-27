@@ -7,13 +7,13 @@
 	</head>
 
 	<body>
-
-		<form method="get" action="{{ url_for('results') }}">
-			<label for="searchterm">The Gabagool</label><br/>
-			<input type="text" name='test'/>
-			<input type="submit" value="Go" />
-		</form>	
-		
+		<div class="search-bar-container">
+			<form class="search-bar" method="get" action="{{ url_for('results') }}">
+				<label class="title" for="searchterm">The Gabagool</label>
+				<input type="text" name='test'/>
+				<input type="submit" value="Go" />
+			</form>	
+		</div>
 		<div class="tiles-container">
 			{% for url, content in results %}
 			<div class="tile">
