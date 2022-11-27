@@ -53,3 +53,19 @@ td {
     color: #fd0000;
     display: inline;
 }
+
+.tiles-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.tile{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 3px;
+    margin: 5px;
+    background-color: #F2F2F2;
+}

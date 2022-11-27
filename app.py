@@ -16,9 +16,8 @@ import whoosh
 from whoosh.index import create_in
 from whoosh.index import open_dir
 from whoosh.fields import *
-from whoosh.qparser import QueryParser
 from whoosh.qparser import MultifieldParser
-from whoosh import qparser
+
 
 
 app = Flask(__name__)
@@ -43,19 +42,48 @@ def results():
     query = data.get('test')
     test = data.get('test')
     mySearcher = MyWhooshSearcher()
-    titles, description = mySearcher.search(query)
+    titles, descriptions = mySearcher.search(query)
+
+    urls = []
+    contents = []
+    for i, description in enumerate(descriptions):
+        temp = description.split('\n', 1)
+        urls.append(temp[0][6:])
+        description = temp[1]
+        print(description)
+
+        current_desc = ''
+        for word in query.split():
+            result = find_substring(description, word)
+            if result != 0:
+                current_desc = " ".join(result)
+        if current_desc == '':
+            description = description.split()
+            current_desc = " ".join(description[:20])
+        contents.append(current_desc)
+
+
     print("You searched for: " + query)
     print("Alternatively, the second box has: " + test)
  
-    return render_template('results.html', query=query, results=zip(titles, description))
+    return render_template('results.html', query=query, results=zip(urls, contents))
 
+
+def find_substring(base, term):
+    base = base.split()
+    for i in range(len(base)):
+        if base[i].lower() == term.lower():
+            return base[i-10:i+10]
+    return 0
 
 class MyWhooshSearcher(object):
     """docstring for MyWhooshSearcher"""
     def __init__(self):
         #self.indexer = index.open_dir('myIndex')
         super(MyWhooshSearcher, self).__init__()
-         
+
+
+
         
     def search(self, queryEntered):
         title = list()
@@ -63,8 +91,11 @@ class MyWhooshSearcher(object):
         
         # Created our own indexer for now. Could init in constructor later
         indexer = whoosh.index.open_dir("myIndex")
+
+
         with indexer.searcher() as search:
             query = MultifieldParser(['title', 'textdata'], schema=indexer.schema)
+            # query = query.parse(queryEntered)
             query = query.parse(queryEntered)
 
             # Set limit to 10 will need to change later as we display 10 per page not 10 total

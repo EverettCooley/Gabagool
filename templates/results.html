@@ -2,32 +2,26 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<link rel="stylesheet" href= "{{ url_for('static',filename='styles/main.css') }}">
+		<link rel="stylesheet" href="{{ url_for('static', filename='../static/css/main.css') }}">
 		<title>Results</title>
 	</head>
 
 	<body>
 
-		<h2>
-			<div id='redText'>You</div> <div class='blueText'>searched</div> for: {{query}}
-		</h2>
+		<form method="get" action="{{ url_for('results') }}">
+			<label for="searchterm">The Gabagool</label><br/>
+			<input type="text" name='test'/>
+			<input type="submit" value="Go" />
+		</form>	
 		
-		<table>
-			<thead>
-				<tr>
-					<th>Title</th>
-					<th>Description</th>
-				</tr>
-			</thead>
-			<tbody>
-				{% for t, d in results %}
-				<tr>
-					<td>{{t}}</td>
-					<td>{{d}}</td>
-				</tr>
-				{% endfor %}
-			</tbody>
-		</table>
+		<div class="tiles-container">
+			{% for url, content in results %}
+			<div class="tile">
+				<a href="{{url}}">{{url}}</a>
+				<p class="content">{{content}}</p>
+			</div>
+			{% endfor %}
+		</div>
 		<form method="post" action="{{ url_for('index') }}">
 			<input type="submit" value="Return" />
 		</form>	
