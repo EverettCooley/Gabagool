@@ -47,6 +47,9 @@ td {
     background: #5c5590;
     color: #e98eff;
 }
+select {
+    width:  100%;
+}
 
 .blueText{
     color: #000afd;
