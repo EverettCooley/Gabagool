@@ -57,11 +57,12 @@ def results():
 
     # Grab our query and category if selected
     query = data.get('test')
-    cat = data.get('category')
+    cat = data.get('category') 
+    print(f'Category: {cat}')
 
     # Create searcher and search
     mySearcher = MyWhooshSearcher()
-    titles, descriptions = mySearcher.search(query, cat)
+    titles, descriptions = mySearcher.search(query, cat) 
 
 
     urls = []
@@ -83,11 +84,6 @@ def results():
             description = description.split()
             current_desc = " ".join(description[:20])
         contents.append(current_desc)
-
-        #url = contents.split('\n')
-
-    # print("You searched for: " + query)
-    # print("Alternatively, the second box has: " + test)
  
     return render_template('results.html', query=query, results=zip(urls,contents), categories=categories)
 
@@ -145,19 +141,28 @@ class MyWhooshSearcher(object):
         #self.indexer = index.open_dir('myIndex')
         super(MyWhooshSearcher, self).__init__()
          
-    # Need to add var for keyword search for andvanced search ***************   
+    # Function to search takes in user entered query and category selected
     def search(self, queryEntered, category):
         title = list()
         description = list()
         
         # Created our own indexer for now. Could init in constructor later
-        indexer = whoosh.index.open_dir("myIndex")
+        indexer = whoosh.index.open_dir("./src/myIndex")
         with indexer.searcher() as search:
             query = MultifieldParser(['title', 'textdata'], schema=indexer.schema)
             query = query.parse(queryEntered)
 
-            # Set limit to 10 will need to change later as we display 10 per page not 10 total
-            results = search.search(query, limit=None, terms=True)
+
+            # If we have a category we will do conjunctive search for query and category keyword
+            if category:
+                # Add AND on category to indicate conjunctive search
+                category = category + ' AND ' + queryEntered
+                catQuery = MultifieldParser(['textdata','categories'], schema=indexer.schema)
+                catQuery = catQuery.parse(category)
+                results = search.search(catQuery, limit=None)
+            else:
+                results = search.search(query, limit=None)
+
             newDict = {}
             otherDict = {} 
 
