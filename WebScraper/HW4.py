@@ -19,6 +19,7 @@ class NewSchema(SchemaClass):
     path = ID(stored=True)
     title = TEXT(stored=True)
     textdata = TEXT(stored=True)
+    categories = KEYWORD(stored=True)
 
 # Function to create our index from corpus
 def createIndex(dirPath):
@@ -36,13 +37,31 @@ def createIndex(dirPath):
 	    fp = open(path,'r')
 	    print(f'Indexing: {path[len(dirPath)+1:]}')
 	    text = fp.read()
-	    writer.add_document(path=path, title=path[len(dirPath)+1:], textdata=text)
+	    txtToParse = text.split("\n")
+	    keyWords = parseFile(txtToParse)
+	    mystr=''
+	    for k in keyWords:
+	    	mystr =mystr+ ' '+ k
+	    writer.add_document(path=path, title=path[len(dirPath)+1:], textdata=text, categories=mystr)
 	    fp.close()
 	writer.commit()
 
 	print(f'Finishing Up Index With {len(filepaths)} Documents...')
 	print(f'Schema: {ix.schema}')
 	return(ix)
+
+# Function to Grab Categories
+def parseFile(fText):
+	# Only need last line where categories are
+	for line in fText:
+		pass
+
+	# Remove the beginning and end 
+	last_line = line[12:len(line)-14]
+	cats = last_line.split(',')
+
+	return(cats)
+
 
 # Function to search index from user input Data
 def displayResults(ix, queryStr, numReturned):
@@ -92,20 +111,13 @@ def main():
 
 	
 	# Check if index directory exists if not create it and build it otherwise open dir
-	if not os.path.exists("myIndex"):
-		os.mkdir("myIndex")
-		ix = createIndex("pages")
+	if not os.path.exists("../src/myIndex"):
+		os.mkdir("../src/myIndex")
+		ix = createIndex("finalFiles")
 	else:
 		ix = index.open_dir("myIndex")
 
 	#getUserInput(ix)
-
-	
-	
-	
-		
-	
-
 
 if __name__ == '__main__':
 	main()
