@@ -3,21 +3,22 @@
 # Main Driver file
 # Skeleton code provided by Dr. McCamish
 
-# Right now we have a bare bones search engine mostly taken from McCamish on his website. 
-# Make changes on the search box, loaded our data with 28k pages, using his searcher but 
-#  made a couple changes in the MyWhooshSearcher class.
-# For the moment when you search data looks like shit but we will format later once we have full functionality
 
-# Next we need to override the whoosh searcher to implement page rank I will work on that
 from flask import Flask, render_template, request, make_response, jsonify
 import whoosh
+from whoosh.index import create_in
+from whoosh.index import open_dir
 from whoosh.fields import *
+from whoosh.query import *
 from whoosh.qparser import QueryParser
 from whoosh.qparser import MultifieldParser
 from whoosh import qparser
 from whoosh import scoring
 import pickle
 
+# sys.path.insert(1, './src/helperCode')
+# import t
+ 
 app = Flask(__name__)
 
 # Open our dictionary containing page rank values
@@ -60,6 +61,8 @@ def my_link():
 # Load results page
 @app.route('/results/', methods=['GET', 'POST'])
 def results():
+    t.test('hello world')
+
     global mySearcher
     if request.method == 'POST':
         data = request.form
@@ -69,7 +72,6 @@ def results():
     # Grab our query and category if selected
     query = data.get('test')
     cat = data.get('category') 
-    print(f'Category: {cat}')
 
     # Create searcher and search
     mySearcher = MyWhooshSearcher()
@@ -84,6 +86,8 @@ def results():
         temp = description.split('\n', 1)
         urls.append(temp[0][6:])
         description = temp[1]
+        #print(description)
+
         current_desc = ''
         for word in query.split():
             result = find_substring(description, word)
@@ -95,10 +99,8 @@ def results():
         contents.append(current_desc)
 
     spelling_correction = find_word_corrections(query, mySearcher.reader)
-    print(spelling_correction)
- 
-    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction)
 
+    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction)
 
 # corrects spelling of query
 def find_word_corrections(q, reader):
@@ -138,7 +140,6 @@ def find_word_corrections(q, reader):
 # helper function of find_word_corrections
 def term_freq(term, reader):
     return reader.frequency("textdata", term)
-
 
 def find_substring(base, term):
     base = base.split()
@@ -191,6 +192,7 @@ def loadImages(f):
 class MyWhooshSearcher(object):
     """docstring for MyWhooshSearcher"""
     def __init__(self):
+        #self.indexer = index.open_dir('myIndex')
         self.ix = whoosh.index.open_dir('src/myIndex')
         self.reader = self.ix.reader()
         super(MyWhooshSearcher, self).__init__()
@@ -200,34 +202,35 @@ class MyWhooshSearcher(object):
         title = list()
         description = list()
         
-        # Created our own indexer for now. Could init in constructor later
+        # Make query multi field searcher and make disjunctive search
         indexer = whoosh.index.open_dir("./src/myIndex")
         with indexer.searcher() as search:
             query = MultifieldParser(['title', 'textdata'], schema=indexer.schema)
             query = query.parse(queryEntered)
+            query = Or(query)
 
 
             # If we have a category we will do conjunctive search for query and category keyword
             if category:
-                # Add AND on category to indicate conjunctive search
-                category = category + ' AND ' + queryEntered
-                catQuery = MultifieldParser(['textdata','categories'], schema=indexer.schema)
-                catQuery = catQuery.parse(category)
-                results = search.search(catQuery, limit=None)
+                # Only searching keyword field for categories then conjunctive search with query
+                catQuery = MultifieldParser(['categories'], schema=indexer.schema)
+                catQuery = catQuery.parse(category) 
+                combinedQuery = And([catQuery, query])
+                results = search.search(combinedQuery, limit=None)
             else:
                 results = search.search(query, limit=None)
 
             newDict = {}
-            otherDict = {} 
+            prScoresDict = {} 
 
             # Iterate through results to match titles 
             for i in results:
                 if i['title'] in myDict:
                     #newDict[i['title']] = myDict[i['title']]
                     #print(f"{i['title']} {myDict[i['title']]}")
-                    otherDict[i['title']] = myDict[i['title']]
+                    prScoresDict[i['title']] = myDict[i['title']]
              
-            sortedDict = dict(sorted(otherDict.items(), key=lambda x:float(x[1]), reverse=True))
+            sortedDict = dict(sorted(prScoresDict.items(), key=lambda x:float(x[1]), reverse=True))
 
             # Now dict is sorted add raw text as values
             for i in results:
@@ -236,15 +239,31 @@ class MyWhooshSearcher(object):
             # Make list from keys and values and return them
             title = list(sortedDict.keys())
             description = list(sortedDict.values())
-           # print(f'\nTITLES AFTER: {title}\n')
             
         return title, description
 
+    # ****** DON'T NEED THIS ********
+    # ****** SEE HW4 FOLDER FOR BUILDING INDEX *****
+    # def index(self):
+    #     schema = Schema(id=ID(stored=True), title=TEXT(stored=True), description=TEXT(stored=True))
+    #     indexer = create_in('myIndex', schema)
+    #     writer = indexer.writer()
+
+    #     writer.add_document(id=u'1', title=u'hello there', description=u'cs hello, how are you')
+    #     writer.add_document(id=u'2', title=u'hello bye', description=u'nice to meetcha')
+    #     writer.commit()
+
+    #     self.indexer = indexer
+
+# indexer = index()
+# search(indexer, 'nice')
 
 if __name__ == '__main__':
     global mySearcher
     mySearcher = MyWhooshSearcher()
     mySearcher.index()
+    #title, description = mySearcher.search('hello')
+    #print(title)
     app.run(debug=True)
 
 
