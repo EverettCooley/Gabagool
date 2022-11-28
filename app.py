@@ -61,7 +61,7 @@ def my_link():
 # Load results page
 @app.route('/results/', methods=['GET', 'POST'])
 def results():
-    t.test('hello world')
+    #t.test('hello world')
 
     global mySearcher
     if request.method == 'POST':
