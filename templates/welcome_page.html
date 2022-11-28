@@ -13,8 +13,19 @@
 			<!-- <input type="text" name="searchterm" /><br /> -->
 			<input type="text" name='test'/>
 			<input type="submit" value="Go" />
-		</form>	
 
-		<!-- <a href="/my-link/">Hello World</a> -->
+			<div>
+				<label>Select Category</label>
+				<select name="category" method="get">
+
+	  				<option value="" selected></option>
+	  				{% for cat in categories[2:] %}
+	    			<option value="{{cat}}">{{cat}}</option>
+	  				{% endfor %}
+				</select>
+			</div>
+
+		</form>	 
+		</form>
 	</body>	
 </html>
