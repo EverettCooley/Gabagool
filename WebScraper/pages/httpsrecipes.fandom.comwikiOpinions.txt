@@ -1,0 +1,58 @@
+Link: https://recipes.fandom.com/wiki/Opinions
+
+
+ 
+ 
+ 
+ 
+ popular opinions  ( write an opinion ) 
+ 
+ 
+ <ListPages>
+ Published=Yes
+order=PublishedDate
+count=5
+Category=Opinions 
+ShowCategories=Yes
+ShowBlurb=200
+BlurbFontSize=Small
+Nav=Yes
+ShowPicture=Yes
+</ListPages>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ write an opinion 
+ 
+ 
+ 
+ new opinions
+ 
+ 
+ 
+ <ListPages>
+Published=No
+order=New
+count=5
+Category=Opinions 
+ShowCategories=No
+ShowPicture=No
+ShowStats=No
+ShowDate=No
+VoteBox=Yes
+</ListPages>
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/recipes/images/9/9c/Createicon1.png/revision/latest?cb=20080516004546']
+Categories: Recipes wiki, Add category

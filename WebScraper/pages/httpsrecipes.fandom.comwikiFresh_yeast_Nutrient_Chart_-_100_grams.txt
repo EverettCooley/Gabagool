@@ -1,0 +1,1055 @@
+Link: https://recipes.fandom.com/wiki/Fresh_yeast_Nutrient_Chart_-_100_grams
+
+Leavening agents, yeast, baker's, compressed Refuse:   0%   Scientific Name:     NDB No:  18374 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+Value per 100 grams 
+Number of Data Points Std. Error
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  69.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  105 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  439 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  8.40 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  1.90 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  1.80 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  18.10 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  8.1 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  19 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  3.25 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  40 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  336 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  601 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  30 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  9.97 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.148 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.200 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  8.1 
+ 
+ 2 
+ 
+ 0 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  0.1 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  1.880 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  1.130 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  12.300 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  4.900 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.430 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  785 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  785 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  785 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.01 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12, added
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin E, added
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  0.0 
+ 
+ 0 
+ 
+ 0 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  0.243 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.012 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  0.172 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.060 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  1.047 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.556 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.491 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  0.004 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  0.004 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 1 
+ 
+ 0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.106 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.435 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.476 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.668 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.690 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.166 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.112 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.407 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.345 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.512 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.462 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.217 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.553 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.853 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  1.235 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.407 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.357 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.413 
+ 
+ 0 
+ 
+ 0 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+Categories: Active Yeast, Add category

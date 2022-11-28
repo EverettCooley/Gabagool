@@ -1,0 +1,1056 @@
+Link: https://recipes.fandom.com/wiki/Soy_flour_Nutrient_Chart_-_100_grams
+
+Soy flour, full-fat, raw : 
+ Refuse:   0%   Scientific Name:     NDB No:  16115 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+Value per 100 grams 
+Number of Data Points Std. Error
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  5.16 
+ 
+ 5 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  436 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  1824 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  34.54 
+ 
+ 4 
+ 
+ 0 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  20.65 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  4.46 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  35.19 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  9.6 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  7.50 
+ 
+ 0 
+ 
+ 0 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  206 
+ 
+ 4 
+ 
+ 0 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  6.37 
+ 
+ 3 
+ 
+ 0 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  429 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  494 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  2515 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  13 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  3.92 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  2.920 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  2.275 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  7.5 
+ 
+ 0 
+ 
+ 0 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  0.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.581 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  1.160 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  4.320 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  1.590 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.461 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  345 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  345 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  345 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12, added
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  120 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  6 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  1.95 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin E, added
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  70.0 
+ 
+ 1 
+ 
+ 0 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  2.987 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.057 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  2.192 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.737 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  4.561 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.057 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  4.504 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  11.657 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  10.280 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  1.378 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.502 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  1.500 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  1.675 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  2.812 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  2.298 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.466 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.556 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  1.802 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  1.306 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  1.724 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  2.679 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.931 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  1.627 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  4.342 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  6.689 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  1.597 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  2.020 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  2.002 
+ 
+ 0 
+ 
+ 0 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  72 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+Categories: Nonwheat flour, Soy products, Add category

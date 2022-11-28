@@ -1,0 +1,12 @@
+Link: https://recipes.fandom.com/wiki/Communicating_with_Other_Users
+
+For a variety of reasons, you may wish to contact another user. Doing so is simple.
+ First, go to their user page. While at their user page, you'll see a link saying "talk page" on the top of their page. Click that link. That will put you on the user's talk page. You should then edit the talk page and leave your note. But:
+ 1)  Be sure you are on the talk page  and not the user's page itself. You can identify the talk page by the fact that it says "User talk" and not just "User" at the top.
+ 2)  Sign your notes  by putting --~~~~ at the end of them. This will automatically put your username and the time/date of your note into the page.
+ 3)  Keep it civil . There are plenty of places on the Internet to speak with a forked tongue about another person. Do not do that here.
+ 
+ 
+ 
+ 
+Categories: Recipes wiki, Add category

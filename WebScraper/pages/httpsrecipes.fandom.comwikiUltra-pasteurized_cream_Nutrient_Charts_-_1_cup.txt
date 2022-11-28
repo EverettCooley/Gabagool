@@ -1,0 +1,712 @@
+Link: https://recipes.fandom.com/wiki/Ultra-pasteurized_cream_Nutrient_Charts_-_1_cup
+
+Cream, whipped, cream topping, pressurized : 
+ Refuse:   0%   Scientific Name:     NDB No:  01054 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+ 1.00 X 1 cup  ------- 60g
+ 
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  36.80 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  154 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  646 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  1.92 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  13.33 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  0.46 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  7.49 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  4.80 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  61 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  0.03 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  7 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  53 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  88 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  78 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  0.22 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.006 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.001 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  0.8 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  0.0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.022 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.039 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  0.042 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  0.183 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.025 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  2 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  2 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  2 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.17 
+ 
+ 
+ Vitamin B-12, added
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  411 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  113 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  110 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  0.38 
+ 
+ 
+ Vitamin E, added
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  1.1 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  8.299 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.433 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.256 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.149 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.334 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.374 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  1.341 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  3.506 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  1.616 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  3.851 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.299 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  3.354 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  0.495 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  0.301 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.194 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  46 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.027 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.086 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.116 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.188 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.152 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.048 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.018 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.092 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.092 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.128 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.070 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.052 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.066 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.146 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  0.402 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.041 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.186 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.104 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  26 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ 
+ 
+Categories: Milk and cream, Add category

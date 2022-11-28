@@ -1,0 +1,711 @@
+Link: https://recipes.fandom.com/wiki/Baker%27s_yeast_Nutrient_Charts_-_1_tbsp
+
+Leavening agents, yeast, baker's, active dry Refuse:   0%   Scientific Name:     NDB No:  18375 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+ 1.00 X 1 tbsp  ------- 12g
+ 
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  0.91 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  35 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  148 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  4.60 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  0.55 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  0.84 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  4.58 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  2.5 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  0.00 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  8 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  1.99 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  12 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  155 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  240 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  6 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  0.77 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.060 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.066 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  2.9 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  0.0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.283 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.656 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  4.770 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  1.356 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.186 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  281 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  281 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  281 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin B-12, added
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  0 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  0 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Vitamin E, added
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  0.0 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  0.071 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.003 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  0.050 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.018 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  0.307 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.163 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.144 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  0.001 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  0.001 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.058 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.239 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.261 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.367 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.379 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.091 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.061 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.223 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.189 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.281 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.254 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.119 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.304 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.468 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  0.678 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.223 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.196 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.227 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ 
+ 
+Categories: Active Yeast, Add category

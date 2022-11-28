@@ -5,15 +5,14 @@
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 		<link rel="stylesheet" href= "{{ url_for('static',filename='../static/css/main.css') }}">
 		<title>The Gabagool</title>
-	</head>
 
+	</head>
 	<body>
 		<form method="get" action="{{ url_for('results') }}">
-			<label for="searchterm">The Gabagool</label><br/>
-			<!-- <input type="text" name="searchterm" /><br /> -->
-			<input type="text" name='test'/>
+			<label for="searchterm">The Gabagool</label>
+			<input id="search-input" oninput="submit_input();" type="text" name='test'/>
 			<input type="submit" value="Go" />
- 
+			<p id="autocomplete"></p>
 			<div>
 				<label>Select Category</label>
 				<select name="category" method="get" action="{{ url_for('results') }}">
@@ -24,9 +23,33 @@
 	  				{% endfor %}
 				</select>
 			</div>
-			
-
 		</form>	 
+		<script>
+			function submit_input(){
+				var message = document.getElementById("search-input").value;
+
+				var entry = {
+					"message": message
+				};
+
+				console.log("worked")
+				fetch(`${window.origin}/complete`, {
+					method: 'POST',
+					headers: {
+						'Content-Type': 'application/json'
+					},
+					body: JSON.stringify(entry)
+				}).then(function(response) {
+					if (response.status !== 200) {
+						console.log('Looks like there was a problem. Status Code:');
+						return;
+					}
+					response.json().then(function(data) {
+						document.getElementById('autocomplete').innerHTML = data;
+					});
+				})
+			}
+		</script>
 		
 	</body>	
 </html>

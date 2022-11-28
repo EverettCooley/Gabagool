@@ -1,0 +1,599 @@
+Link: https://recipes.fandom.com/wiki/Silken_tofu
+
+MORI-NU, Tofu, silken, firm : 
+ Refuse:   0%   Scientific Name:     NDB No:  16162 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+Value per 100 grams 
+Number of Data Points Std. Error
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  87.40 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  62 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  259 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  6.90 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  2.70 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  0.60 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  2.40 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  0.1 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  1.27 
+ 
+ 0 
+ 
+ 0 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  32 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  1.03 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  27 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  90 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  194 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  36 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  0.61 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.203 
+ 
+ 0 
+ 
+ 0 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  0.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.101 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.041 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  0.247 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.011 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  0.406 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  0.539 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  1.485 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.085 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.286 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.349 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.586 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.459 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.106 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.100 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.394 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.299 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.385 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.517 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.169 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.266 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.771 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  1.176 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.268 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.349 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.333 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+Categories: Tofu, Add category

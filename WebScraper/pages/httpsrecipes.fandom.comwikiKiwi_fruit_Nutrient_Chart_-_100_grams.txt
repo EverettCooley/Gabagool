@@ -1,0 +1,1176 @@
+Link: https://recipes.fandom.com/wiki/Kiwi_fruit_Nutrient_Chart_-_100_grams
+
+Kiwi fruit, (chinese gooseberries), fresh, raw : 
+ Refuse:   14%  (Skin) Scientific Name:    Actinidia chinensis NDB No:  09148 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+Value per 100 grams 
+Number of Data Points Std. Error
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  83.07 
+ 
+ 20 
+ 
+ 0.989 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  61 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  255 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  1.14 
+ 
+ 20 
+ 
+ 0.116 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  0.52 
+ 
+ 20 
+ 
+ 0.12 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  0.61 
+ 
+ 20 
+ 
+ 0.044 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  14.66 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  3.0 
+ 
+ 8 
+ 
+ 0.211 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  8.99 
+ 
+ 8 
+ 
+ 0.163 
+ 
+ 
+ Sucrose
+ 
+ 
+ g 
+ 
+  0.15 
+ 
+ 8 
+ 
+ 0.021 
+ 
+ 
+ Glucose (dextrose)
+ 
+ 
+ g 
+ 
+  4.11 
+ 
+ 8 
+ 
+ 0.055 
+ 
+ 
+ Fructose
+ 
+ 
+ g 
+ 
+  4.35 
+ 
+ 8 
+ 
+ 0.084 
+ 
+ 
+ Lactose
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 7 
+ 
+ 0 
+ 
+ 
+ Maltose
+ 
+ 
+ g 
+ 
+  0.19 
+ 
+ 8 
+ 
+ 0.016 
+ 
+ 
+ Galactose
+ 
+ 
+ g 
+ 
+  0.17 
+ 
+ 8 
+ 
+ 0.089 
+ 
+ 
+ Starch
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 4 
+ 
+ 0 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  34 
+ 
+ 20 
+ 
+ 4.113 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  0.31 
+ 
+ 21 
+ 
+ 0.062 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  17 
+ 
+ 21 
+ 
+ 0.953 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  34 
+ 
+ 19 
+ 
+ 1.603 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  312 
+ 
+ 16 
+ 
+ 6.598 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  3 
+ 
+ 18 
+ 
+ 0.713 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  0.14 
+ 
+ 21 
+ 
+ 0.01 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.130 
+ 
+ 21 
+ 
+ 0.007 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.098 
+ 
+ 17 
+ 
+ 0.011 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  0.2 
+ 
+ 5 
+ 
+ 0.04 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  92.7 
+ 
+ 16 
+ 
+ 3.367 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.027 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.025 
+ 
+ 18 
+ 
+ 0.003 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  0.341 
+ 
+ 18 
+ 
+ 0.032 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  0.183 
+ 
+ 18 
+ 
+ 0.025 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.063 
+ 
+ 18 
+ 
+ 0.002 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  25 
+ 
+ 17 
+ 
+ 2.021 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  25 
+ 
+ 17 
+ 
+ 2.021 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  25 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12, added
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  87 
+ 
+ 18 
+ 
+ 4.722 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  4 
+ 
+ 18 
+ 
+ 0.236 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  1.46 
+ 
+ 16 
+ 
+ 0.043 
+ 
+ 
+ Vitamin E, added
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Tocopherol, beta
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 4 
+ 
+ 0 
+ 
+ 
+ Tocopherol, gamma
+ 
+ 
+ mg 
+ 
+  0.03 
+ 
+ 4 
+ 
+ 0.005 
+ 
+ 
+ Tocopherol, delta
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 4 
+ 
+ 0 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  40.3 
+ 
+ 8 
+ 
+ 1.786 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  0.029 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  0.017 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.012 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  0.047 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.047 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  0.287 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  0.246 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.042 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.015 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.047 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.051 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.066 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.061 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.024 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.031 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.044 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.034 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.057 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.081 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.027 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.053 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.126 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  0.184 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.060 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.044 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.053 
+ 
+ 0 
+ 
+ 0 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  52 
+ 
+ 18 
+ 
+ 2.982 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 6 
+ 
+ 0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 6 
+ 
+ 0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 6 
+ 
+ 0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  122 
+ 
+ 6 
+ 
+ 5.764 
+ 
+ 
+ 
+ 
+Categories: Berries, Add category

@@ -1,0 +1,42 @@
+Link: https://recipes.fandom.com/wiki/Creating_and_Adding_to_Categories
+
+Contents 
+ 
+ 1   General overview 
+ 2   Adding your page to categories 
+ 3   Category page 
+ 4   Links to categories 
+ 5   Existing categories 
+ 
+ 
+ General overview : 
+ A  category  is a list page which serves to classify topics; for example, the  Category:Recipes  is meant to hold the individual topics, such as  Awrigh01's Basil Shrimp  and  Roblefko's Jalapeno Mustard . 
+ 
+ Adding your page to categories : 
+ To add a page to a category, insert the link 
+ [[Category: category name ]]
+ to that page. For example, the category  Category:Recipes  includes all tests. To add Awrigh01's Basil Shrimp to this list, you would go to  Awrigh01's Basil Shrimp 's page and insert the link 
+ [[Category:Recipes]] into it (yes, include the double brackets). 
+ 
+ Category page : 
+ A category page consists of:
+ 
+ editable text 
+ list of subcategories; how many there are is also displayed; if there are no subcategories the header and count are not shown. 
+ list of pages in the category, excluding subcategories and images; the number of items in this list is called the number of articles; if there are none the header is shown anyway, and "There are 0 articles in this category." 
+ To create a category page, you must add a colon in front of the Category tag when you set up the page-creation link, to prevent the software from thinking you merely want to add the page you are working from to the category:
+ 
+ [[:Category: Category name ]]
+ 
+ Placing the above text on working page will create the link you can use to edit your category page.
+ 
+ Links to categories : 
+ You can create a link to a category page without adding the page to that category by using a colon before the word Category. Example:  [[:Category:Recipes]]  appears as  Category:Recipes .
+ 
+ Existing categories : 
+ You can see currently used categories at  Special:Categories . This list is quite long though so it's not recommended to browse through it when searching for a category.
+ 
+ 
+ 
+ 
+Categories: Recipes wiki, Add category

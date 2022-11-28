@@ -1,0 +1,36 @@
+Link: https://recipes.fandom.com/wiki/Recipes_Wiki:Rules
+
+Hi.  Here are some basic rules for this wiki.  
+ 
+ Guidelines for Contributions : 
+ Post complete recipes only! : Recipes need to have both a list of ingredients with quantities, as well as a detailed list of directions.  If only part of a recipe is posted, the recipe will be deleted.  If you do not have time to finish a recipe, then please leave a note, either on the recipe or the admin's talk page to let them know you plan to finish the recipe. 
+ Use categories correctly : Please follow the existing category structure.
+ Cuisine  categories contain general articles about a country or region's food culture, and subcategories.  Recipes  never  go into a "cuisine" category 
+ Food Glossary'  categories contain articles about a type of food, cooking preparation, or other cuisine related term which is common in a country or region.  Like cuisine, no recipe should ever be put in this category. 
+ If you wish to categorize a recipe by country, then the appropriate category is  Country  Recipes, or one of the sub-categories such as  Country  Appetizers. 
+ Do not remove an existing country category from an article unless it is wrong (eg. "Tortillas" categorized as a Japanese recipe).  If a recipe is used in more than one country, then add more than one country category for it! 
+ World Recipes  is specifically for recipes which were imported from the Yahoo "World Recipes" group.  It should never be added to additional recipes. 
+ Respect Other People's Recipes :   If you find a recipe for "Grandma's Best Sugar Cookies", but it is not the same as your grandma's best cookies, then don't simply over-write the article with a different recipe.  Instead, create a new page for your recipe.   If you wish to suggest a variation, then put it at the bottom of the recipe under a "Notes" heading -- eg. "may use cinnamon in place of nutmeg". 
+ Use a Descriptive Title :  There are a lot of different ways to make an "apple pie".  While you may always simply title your version "Apple Pie 2", if there is something special about your recipe, then call it out.  "Apple Pie with Raisins" sounds more exciting than "Apple Pie 2"..... 
+ One Recipe per Page : Having 3 different recipes on the same page, even if you generally cook and/or serve them together, just gets confusing.  Split them up and link from one to the other as needed. 
+ Give Attribution :   If you are posting a great recipe that you got from somewhere else, then a) make sure it is okay to copy it here, and b) give attribution back to the original author. 
+ Post topic-relevant content : This includes images, articles, blogs, whatever.  If it isn't related to food or cooking, then it does not belong here. 
+ Post in English :  This is an english language wiki.  If you wish to use a non-english name for your recipe, then please provide a rough translation/description.  The recipe and instructions, as well as any comments or discussions, should be posted in English.  Non-English submissions will be removed. 
+ 
+ 
+ General Behavior : 
+ Keep it civil : Do not make personal attacks on other people. If you need to criticize another user’s argument, do so without attacking them as a person. Do not use bigoted language, including slurs which degrade another person or group of people based on gender, race, sexual orientation, nationality, religion, etc. 
+ Do not harass other users : If somebody asks you to stop posting certain content on their wall, respect their wishes. It is their wall. 
+ Be a productive member of the wiki : Contribute to the wiki in line with the established processes and conventions. Need help? Ask an  administrator ! Disrupting the wiki with “edit warring” over differing opinions of a topic with another user or group of users is not productive. 
+ Do not vandalize : This should go without saying, but deliberately adding profane content or non-food "ingredients" to a recipe is not allowed. 
+ Do not engage in excessive self-promotion : The wiki is a collaborative community resource for the topic at hand. It is NOT a free place to advertise your related website, YouTube channel, blog, social media account, etc. Have a question about whether your link would be welcome? Ask an administrator! 
+ Community Actions : 
+ Page Protection :  Pages will be temporarily protected to stop persistent vandalism or edit warring, typically for 6 months or a year.  In other words, don't repeatedly make the same edit over and over.  If you do not understand what is wrong with the edit then ask an  administrator .  If you wish to work on a page and find it protected, you should also ask an administrator about whether it can be reopened. 
+ Blocks :
+ Users who violate the  General Behavior  guidelines listed here will be blocked.   First time violators of the rules will be blocked for a month; any additional violations will be blocked for a year. 
+ Users who repeatedly violate the  Guidelines for Contributions , will first be contacted about the issue by an administrator.  If they continue to ignore the guidelines they will be blocked for a week and a second message left. If they continue making problem edits they will be blocked for a year. 
+ Administrators : Users who are interested in becoming an administrator here need to be making solid, substantial edits (not merely minor changes or copy-paste recipes from other sites) a few times a week for at least a few months, and should also have a concrete reason to be an administrator (eg. wiki cleanup).  They should also contact any recently active  administrator , if one has edited in the past 60 days, to discuss potential rights access. 
+ 
+ 
+ 
+Categories:

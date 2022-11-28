@@ -1,0 +1,694 @@
+Link: https://recipes.fandom.com/wiki/Nut_flour_Nutrient_Chart_-_100_grams
+
+Nuts, acorn flour, full fat Refuse:   0%   Scientific Name:     NDB No:  12060 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+Value per 100 grams 
+Number of Data Points Std. Error
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  6.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  501 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  2096 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  7.49 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  30.17 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  1.69 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  54.65 
+ 
+ 0 
+ 
+ 0 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  43 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  1.21 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  110 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  103 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  712 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  0.64 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.611 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  1.743 
+ 
+ 0 
+ 
+ 0 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  0.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.146 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.154 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  2.382 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  0.931 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.688 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  114 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  114 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  114 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  51 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  3 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  3.923 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  3.605 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.319 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  19.110 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  19.110 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  5.813 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  5.813 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.090 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.288 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.348 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.596 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.468 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.126 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.133 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.328 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.227 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.421 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.577 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.208 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.427 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.774 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  1.202 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.348 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.300 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.318 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+Categories: Nut flour, Add category

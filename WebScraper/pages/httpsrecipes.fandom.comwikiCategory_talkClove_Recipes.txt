@@ -1,0 +1,9 @@
+Link: https://recipes.fandom.com/wiki/Category_talk:Clove_Recipes
+
+i have noticed that many of the recipes referred to from this page have a 'clove of garlic' rather than the spice 'clove' - there needs to be some distinction in the coding...  I have no idea how.
+ I suppose that the search returns all recipies with the string 'clove' but of cours that includes the garlic pages.  Can perhaps the search differentiate if the adjoining word was 'garlic'?
+ 
+ 
+ 
+ 
+Categories:

@@ -1,0 +1,720 @@
+Link: https://recipes.fandom.com/wiki/Squash_seeds_Nutrient_Charts_-_1_cup
+
+Seeds, pumpkin and squash seed kernels, dried : 
+ Refuse:   26%  (Hulls) Scientific Name:     NDB No:  12014 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+ 1.00 X 1 cup  ------- 138g
+ 
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  9.55 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  747 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  3124 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  33.87 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  63.27 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  6.73 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  24.58 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  5.4 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  1.38 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  59 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  20.66 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  738 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  1620 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  1114 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  25 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  10.29 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  1.914 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  4.169 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  7.7 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  2.6 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.290 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.442 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  2.408 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  0.468 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.309 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  80 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  80 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  80 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin B-12, added
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  524 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  26 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Vitamin E, added
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Tocopherol, gamma
+ 
+ 
+ mg 
+ 
+  26.32 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  70.9 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  11.970 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.061 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.072 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  7.745 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  3.879 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  19.676 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.137 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  19.521 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  28.848 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  28.569 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.250 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.595 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  1.246 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  1.744 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  2.869 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  2.530 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.760 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.415 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  1.686 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  1.406 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  2.721 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  5.566 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.940 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  1.598 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  3.418 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  5.955 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  2.478 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  1.380 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  1.584 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  315 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ 
+ 
+Categories: Seeds, Winter squash, Add category

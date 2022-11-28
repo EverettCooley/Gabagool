@@ -1,0 +1,28 @@
+Link: https://recipes.fandom.com/wiki/Image_Policy_Overview
+
+      sample image     
+ This page is a brief overview of the policies towards  images  — including format, content, and copyright issues — on this website. 
+ You can go directly to  Special:Upload  to upload an image.
+ 
+ Rules of thumb : 
+  Keep copyrights in mind when uploading images. When in doubt, do  not  upload copyrighted images.  
+ Always provide a detailed source for where the image came from, either a URL if it is from the web, or a name (or alias) and method of contact (i.e. Talk page, email, etc.) for the photographer. 
+  Use the  image description page  to describe an image and its copyright situation. 
+  Use a clear, detailed title. Note that if any image with the same title has already been uploaded, it will be replaced with your new one. 
+  Edit the images to show just the relevant subject. 
+  Don't put photo credits in articles or on the images themselves; put them on the description page. 
+ Copyright (images) : 
+ Please note: this is not the  official copyright policy  — it is merely a reminder with helpful tips: 
+ Before you upload an image, make sure that either: 
+ 
+ You own the rights to the image (usually meaning that you created the image yourself). 
+ You can prove that the copyright holder has licensed the image under a free license. 
+ You can prove that the image is in the public domain. 
+ You believe, and state, a fair use rationale for the specific use of the image that you intend. 
+ Always note the image's copyright status on the  image description page , and provide specific details about the image's origin. If you created the image, for example, write  image created by John Doe on Jan 1st, 2000  (replacing  John Doe  with your name, and  Jan 1st, 2000  with the image creation date). Don't just write  image created by me .
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/recipes/images/a/a9/Example.jpg/revision/latest?cb=20080516004342']
+Categories: Recipes wiki, Add category

@@ -1,0 +1,16 @@
+Link: https://recipes.fandom.com/wiki/Create
+
+
+ 
+ To create an opinion, simply fill in the spaces below as instructed.  Click create for the world to read your food opinion!   For more help click here . 
+ 
+ <createform>
+wysiwyg=on
+category=Opinions
+categories help label=Tagging your article will help the site categorize it, and in turn, will help readers find your article faster! Tags are CASE SENSITIVE and each new word should be in capital letters. Typical tags are courses (e.g. Appetizers, Soups), cuisines (Italian, French), and food (e.g. Chicken). Separate each tag with commas.
+</createform>
+ 
+ 
+ 
+ 
+Categories: Recipes wiki, Add category

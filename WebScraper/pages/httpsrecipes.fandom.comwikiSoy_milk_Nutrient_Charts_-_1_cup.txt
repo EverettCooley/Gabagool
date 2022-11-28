@@ -1,0 +1,808 @@
+Link: https://recipes.fandom.com/wiki/Soy_milk_Nutrient_Charts_-_1_cup
+
+Soy milk, fluid : 
+ Refuse:   0%   Scientific Name:     NDB No:  16120 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+ 1.00 X 1 cup  ------- 245g
+ 
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  215.67 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  127 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  529 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  10.98 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  4.70 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  1.57 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  12.08 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  3.2 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  1.23 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  93 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  2.69 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  61 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  135 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  304 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  135 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  1.08 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.345 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.534 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  11.8 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  0.0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.149 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.125 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  0.708 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  1.269 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.235 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  39 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  39 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  39 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  2.99 
+ 
+ 
+ Vitamin B-12, added
+ 
+ 
+ mcg 
+ 
+  2.99 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  1499 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  76 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  3.31 
+ 
+ 
+ Vitamin E, added
+ 
+ 
+ mg 
+ 
+  3.31 
+ 
+ 
+ Vitamin D
+ 
+ 
+ IU 
+ 
+  39 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  7.3 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  0.571 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 15:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  0.426 
+ 
+ 
+ 17:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.142 
+ 
+ 
+ 20:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 24:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  0.938 
+ 
+ 
+ 14:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 15:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 13:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 17:1
+ 
+ 
+ g 
+ 
+  0.029 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.882 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.029 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  1.877 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  1.664 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.213 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:2 n-6 c,c
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.122 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.345 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.365 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.595 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.421 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.088 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.363 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.284 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.375 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.600 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.196 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.333 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.924 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  1.561 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.328 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.473 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.451 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  899 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ 
+ 
+Categories: Non-dairy milks and creams, Soy products, Add category

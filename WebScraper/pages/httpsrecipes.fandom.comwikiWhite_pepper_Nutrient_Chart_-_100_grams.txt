@@ -1,0 +1,467 @@
+Link: https://recipes.fandom.com/wiki/White_pepper_Nutrient_Chart_-_100_grams
+
+Spices, pepper, white : 
+ Refuse:   0%   Scientific Name:    Piper nigrum NDB No:  02032 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+Value per 100 grams 
+Number of Data Points Std. Error
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  11.42 
+ 
+ 132 
+ 
+ 0.179 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  296 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  1238 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  10.40 
+ 
+ 78 
+ 
+ 0.12 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  2.12 
+ 
+ 75 
+ 
+ 0.159 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  1.59 
+ 
+ 1023 
+ 
+ 0.026 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  68.61 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  26.2 
+ 
+ 0 
+ 
+ 0 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  265 
+ 
+ 12 
+ 
+ 30.021 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  14.31 
+ 
+ 8 
+ 
+ 2.923 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  90 
+ 
+ 12 
+ 
+ 12.038 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  176 
+ 
+ 11 
+ 
+ 12.036 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  73 
+ 
+ 9 
+ 
+ 7.949 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  5 
+ 
+ 7 
+ 
+ 0.951 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  1.13 
+ 
+ 6 
+ 
+ 0.272 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.910 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  4.300 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  3.1 
+ 
+ 0 
+ 
+ 0 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  21.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.022 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.126 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  0.212 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.100 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  10 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  10 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  10 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  0 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  0 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  0.626 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  0.789 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  0.616 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Phytosterols
+ 
+ 
+ mg 
+ 
+  55 
+ 
+ 0 
+ 
+ 0 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+Categories: Spices, Peppers, Add category

@@ -1,0 +1,912 @@
+Link: https://recipes.fandom.com/wiki/Loquat_Nutrient_Chart_-_100_grams
+
+Loquats, raw : 
+ Refuse:   35%  (Seeds and skin) Scientific Name:    Eriobotrya japonica NDB No:  09174 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+Value per 100 grams 
+Number of Data Points Std. Error
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  86.73 
+ 
+ 13 
+ 
+ 1.198 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  47 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  197 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  0.43 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  0.20 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  0.50 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  12.14 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  1.7 
+ 
+ 0 
+ 
+ 0 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  16 
+ 
+ 4 
+ 
+ 5.153 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  0.28 
+ 
+ 3 
+ 
+ 0.08 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  13 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  27 
+ 
+ 3 
+ 
+ 14.372 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  266 
+ 
+ 4 
+ 
+ 77.159 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  1 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  0.05 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.040 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.148 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  0.6 
+ 
+ 0 
+ 
+ 0 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  1.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.019 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.024 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  0.180 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.100 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  14 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  14 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  14 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  1528 
+ 
+ 5 
+ 
+ 233.817 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  76 
+ 
+ 5 
+ 
+ 11.691 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  0.040 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.001 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.001 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  0.032 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.004 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  0.008 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.008 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  0.091 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  0.077 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.013 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Phytosterols
+ 
+ 
+ mg 
+ 
+  2 
+ 
+ 0 
+ 
+ 0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.005 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.015 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.015 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.026 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.023 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.004 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.006 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.014 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.013 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.021 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.014 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.007 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.024 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.058 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  0.061 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.020 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.027 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.020 
+ 
+ 2 
+ 
+ 0 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 
+ 
+Categories: Pome fruit, Add category

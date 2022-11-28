@@ -1,0 +1,1308 @@
+Link: https://recipes.fandom.com/wiki/White_mushroom_Nutrient_Chart_-_100_grams
+
+Mushrooms, white, stir-fried Refuse:   0%   Scientific Name:     NDB No:  11263 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+Value per 100 grams 
+Number of Data Points Std. Error
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  91.10 
+ 
+ 4 
+ 
+ 0.767 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  26 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  110 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  3.58 
+ 
+ 4 
+ 
+ 0.261 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  0.33 
+ 
+ 4 
+ 
+ 0.025 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  0.94 
+ 
+ 4 
+ 
+ 0.022 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  4.04 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  1.8 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Sucrose
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Glucose (dextrose)
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Fructose
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Lactose
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Maltose
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Galactose
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Starch
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  4 
+ 
+ 3 
+ 
+ 0.933 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  0.25 
+ 
+ 3 
+ 
+ 0.006 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  11 
+ 
+ 3 
+ 
+ 0 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  105 
+ 
+ 3 
+ 
+ 5 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  396 
+ 
+ 3 
+ 
+ 15.086 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  12 
+ 
+ 3 
+ 
+ 3.476 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  0.57 
+ 
+ 3 
+ 
+ 0.017 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.291 
+ 
+ 3 
+ 
+ 0.02 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.047 
+ 
+ 3 
+ 
+ 0.005 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  13.9 
+ 
+ 2 
+ 
+ 0 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  0.0 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.096 
+ 
+ 4 
+ 
+ 0.026 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.463 
+ 
+ 4 
+ 
+ 0.028 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  3.987 
+ 
+ 4 
+ 
+ 0.398 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  1.450 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.042 
+ 
+ 3 
+ 
+ 0.006 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  20 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  20 
+ 
+ 2 
+ 
+ 0 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  20 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Tocopherol, beta
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Tocopherol, gamma
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Tocopherol, delta
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  0.0 
+ 
+ 2 
+ 
+ 0 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  0.040 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 15:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  0.030 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 17:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.010 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 20:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 22:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 24:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 14:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 15:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 17:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 24:1 c
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  0.160 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  0.160 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 20:2 n-6 c,c
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 20:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 21:5
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 22:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 1 
+ 
+ 0 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.037 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.116 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.082 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.130 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.116 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.034 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.013 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.092 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.047 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.251 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.084 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.061 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.215 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.211 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  0.371 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.099 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.082 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.102 
+ 
+ 0 
+ 
+ 0 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 0 
+ 
+ 0 
+ Footnotes: 1&#160&#160&#160&#160Water used in stir-frying. No fat added. 
+ 
+ 
+ 
+ 
+Categories: Mushrooms, Add category

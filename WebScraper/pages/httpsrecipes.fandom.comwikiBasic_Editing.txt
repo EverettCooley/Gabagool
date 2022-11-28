@@ -1,0 +1,263 @@
+Link: https://recipes.fandom.com/wiki/Basic_Editing
+
+Contents 
+ 
+ 1   Editing in General 
+ 2   Wiki markup 
+ 
+ 2.1   Basic text formatting: Italicizing/Bolding Text; Starting new paragraphs/lines 
+ 2.2   Organizing your writing: Creating sections, subsections, and lists; Indenting lines 
+ 2.3   Links and URLs; Redirecting pages 
+ 
+ 
+ 
+ 
+ Editing in General : 
+ This is a wiki, which means that anyone can easily edit any article and have those changes posted immediately to that page. 
+ Editing  a page is quite simple. Just click on the " edit " tab at the top of a page (the edit tab is above the page's title). This will bring you to a page with a text box containing the editable text of that page.  If you just want to experiment, please do so in the  Sandbox  instead of on other pages. 
+ 
+ Note:  If a page is broken down into sections, there will also be  edit  links on the right of each section. 
+ 
+ 
+ Wiki markup : 
+ The  wiki markup  is the syntax system you can use to format a page.
+ In the left column of the table below, you can see what effects are possible. In the right column, you can see how those effects were achieved. In other words, to make text look like it looks in the left column, type it in the format you see in the right column. 
+ You may want to keep this page open in a separate browser window for reference, or take a screen-shot of it. 
+ If you want to try out things without danger of doing any harm, you can do so in the  Sandbox . Try opening the Sandbox in a separate window or tab and keeping this page open for reference.
+ 
+ Basic text formatting: Italicizing/Bolding Text; Starting new paragraphs/lines : 
+ 
+ 
+ What it looks like
+ 
+ What you type
+ 
+ 
+ 
+ You can  emphasize text  by putting two
+apostrophes on each side. Three apostrophes
+will emphasize it  strongly . Five
+apostrophes is  even stronger .
+ 
+ 
+ You can ''emphasize text'' by putting two
+apostrophes on each side. Three apostrophes
+will emphasize it '''strongly'''. Five
+apostrophes is '''''even stronger'''''.
+ 
+ 
+ 
+ 
+ A single new line
+has no effect
+on the layout.
+ But an empty line
+starts a new paragraph.
+ 
+ 
+ A single new line
+has no effect
+on the layout.
+
+But an empty line
+starts a new paragraph.
+ 
+ 
+ 
+ 
+ You can break lines 
+without starting a new paragraph. 
+Please use this sparingly.
+ 
+ 
+ You can break lines<br>
+without starting a new paragraph.<br>
+Please use this sparingly.
+ 
+ 
+ 
+ Organizing your writing: Creating sections, subsections, and lists; Indenting lines : 
+ 
+ 
+ What it looks like
+ 
+ What you type
+ 
+ 
+ 
+ Section headings 
+ Headings organize your writing into sections.
+The Wiki software can automatically generate
+a table of contents from them.
+ 
+ Subsection 
+ Using more equals signs creates a subsection.
+ 
+ A smaller subsection 
+ Don't skip levels, like from two to four equals signs.
+Start with two equals signs; don't use single equals signs.
+ 
+ 
+ == Section headings ==
+
+Headings organize your writing into sections.
+The Wiki software can automatically generate
+a table of contents from them.
+
+=== Subsection ===
+
+Using more equals signs creates a subsection.
+
+==== A smaller subsection ====
+
+Don't skip levels, like from two to four equals signs.
+Start with two equals signs; don't use single equals signs.
+ 
+ 
+ 
+ 
+ Unordered lists  are easy to do:
+ Start every line with a star.
+ More stars indicate a deeper level. 
+ A new line 
+ in a list 
+ marks the end of the list.
+ 
+ Of course you can start again. 
+ 
+ * ''Unordered lists'' are easy to do:
+** Start every line with a star.
+*** More stars indicate a deeper level.
+*A new line
+*in a list  
+marks the end of the list.
+*Of course you can start again.
+ 
+ 
+ 
+ 
+ Numbered lists are also good:
+ Very organized 
+ Easy to follow 
+ A new line marks the end of the list.
+ 
+ New numbering starts with 1. 
+ 
+ # Numbered lists are also good:
+## Very organized
+## Easy to follow
+A newline marks the end of the list.
+#New numbering starts with 1.
+ 
+ 
+ 
+ 
+ You can even do mixed lists
+ and nest them
+ or break lines in lists. 
+ 
+ * You can even do mixed lists
+*# and nest them
+*#* or break lines<br>in lists. 
+ 
+ 
+ 
+ Another kind of list is a  definition list :
+ 
+ word 
+ definition of the word 
+ longer phrase 
+ phrase defined 
+ 
+ Another kind of list is a '''definition list''':
+; word : definition of the word
+; longer phrase 
+: phrase defined 
+ 
+ 
+ 
+ A colon indents a line or paragraph.
+ Two colons indent it even further. 
+ A newline after that starts a new paragraph.
+ 
+ 
+ :A colon indents a line or paragraph.
+::Two colons indent it even further.
+A new line after that starts a new paragraph.
+ 
+ 
+ 
+ 
+ You can make horizontal dividing lines
+to separate text.
+ 
+ 
+ But you should usually use sections instead,
+so that they go in the table of contents.
+ 
+ 
+ You can make horizontal dividing lines
+to separate text.
+----
+But you should usually use sections instead,
+so that they go in the table of contents.
+ 
+ 
+ Links and URLs; Redirecting pages : 
+ 
+ 
+ What it looks like
+ 
+ What you type
+ 
+ 
+ 
+ Here's a link to a page named  Barbecuing .
+ You can put formatting around a link.
+Example:  Barbecuing .
+ The  first letter  will automatically be capitalized,
+so  barbecuing  goes to the same place as  Barbecuing .
+ Capitalization matters after the first letter. 
+ Robert Lefkowitz  is a page that doesn't exist yet. 
+You can create it by clicking on the link (but please do not do so with this particular link).
+ 
+ 
+ Here's a link to a page named [[Barbecuing]].
+
+You can put formatting around a link.
+Example: ''[[Barbecuing]]''.
+
+The ''first letter'' will automatically be capitalized,
+so [[barbecuing]] goes to the same place 
+as [[Barbecuing]]. '''Capitalization matters 
+after the first letter.'''
+
+[[Robert Lefkowitz]] is a page that doesn't exist yet. 
+You can create it by clicking on the link.
+ 
+ 
+ 
+ 
+ You can make an external link just by typing a URL:
+ http://www.armchairgm.com 
+ You can give it a title:
+ ArmchairGM 
+ Or leave the title blank:
+ [1] 
+ 
+ 
+ 
+ You can make an external link just by typing a URL:
+http://www.armchairgm.com
+
+You can give it a title:
+[http://www.armchairgm.com ArmchairGM]
+
+Or leave the title blank:
+[http://www.armchairgm.com]
+ 
+ 
+ 
+ 
+ 
+Categories: Recipes wiki, Add category

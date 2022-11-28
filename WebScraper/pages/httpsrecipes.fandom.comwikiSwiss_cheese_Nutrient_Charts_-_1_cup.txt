@@ -1,0 +1,776 @@
+Link: https://recipes.fandom.com/wiki/Swiss_cheese_Nutrient_Charts_-_1_cup
+
+Cheese, swiss : 
+ Refuse:   0%   Scientific Name:     NDB No:  01040 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+ 1.00 X 1 cup, diced  ------- 132g
+ 
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  49.00 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  502 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  2100 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  35.55 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  36.70 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  3.66 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  7.10 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  1.74 
+ 
+ 
+ Sucrose
+ 
+ 
+ g 
+ 
+  0.18 
+ 
+ 
+ Glucose (dextrose)
+ 
+ 
+ g 
+ 
+  0.63 
+ 
+ 
+ Lactose
+ 
+ 
+ g 
+ 
+  0.08 
+ 
+ 
+ Maltose
+ 
+ 
+ g 
+ 
+  0.82 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  1044 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  0.26 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  50 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  748 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  102 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  253 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  5.76 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.057 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.007 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  24.0 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  0.0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.083 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.391 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  0.121 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  0.566 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.110 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  8 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  8 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  8 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  4.41 
+ 
+ 
+ Vitamin B-12, added
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  1096 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  290 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  282 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  0.50 
+ 
+ 
+ Vitamin E, added
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Tocopherol, beta
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Tocopherol, gamma
+ 
+ 
+ mg 
+ 
+  0.04 
+ 
+ 
+ Tocopherol, delta
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Vitamin D
+ 
+ 
+ IU 
+ 
+  58 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  3.3 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  23.468 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  1.455 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.644 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.381 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.825 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.688 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  4.042 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  10.283 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  4.287 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  9.602 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  1.160 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  7.942 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  1.283 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  0.818 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.465 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  121 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.529 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  1.370 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  2.029 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  3.906 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  3.412 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  1.035 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.383 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  2.194 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  2.235 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  2.823 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  1.224 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  1.406 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  1.206 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  2.071 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  7.529 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.671 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  4.871 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  2.165 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  92 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ 
+ 
+Categories: Semi-firm cheese, Add category

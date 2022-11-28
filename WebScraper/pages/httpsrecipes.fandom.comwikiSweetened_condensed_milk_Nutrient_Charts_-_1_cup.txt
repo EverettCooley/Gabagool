@@ -1,0 +1,712 @@
+Link: https://recipes.fandom.com/wiki/Sweetened_condensed_milk_Nutrient_Charts_-_1_cup
+
+Milk, canned, condensed, sweetened : 
+ Refuse:   0%   Scientific Name:     NDB No:  01095 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+ 1.00 X 1 cup  ------- 306g
+ 
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  83.11 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  982 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  4107 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  24.20 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  26.62 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  5.60 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  166.46 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  166.46 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  869 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  0.58 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  80 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  774 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  1135 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  389 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  2.88 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.046 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.018 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  45.3 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  8.0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.275 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  1.273 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  0.643 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  2.295 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.156 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  34 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  34 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  34 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  1.35 
+ 
+ 
+ Vitamin B-12, added
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  817 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  226 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  223 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  0.49 
+ 
+ 
+ Vitamin E, added
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  1.8 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  16.787 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.863 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.511 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.297 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.223 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.551 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  2.396 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  7.332 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  3.700 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  7.427 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.419 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  6.695 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  1.031 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  0.661 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.370 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  104 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.343 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  1.092 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  1.466 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  2.372 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  1.919 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.606 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.223 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  1.169 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  1.169 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  1.619 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.875 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.655 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.835 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  1.836 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  5.067 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.511 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  2.344 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  1.316 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  43 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ 
+ 
+Categories: Milk and cream, Add category

@@ -15,7 +15,7 @@
 			<!-- <input type="text" name="searchterm" /><br /> -->
 			<input type="text" name='test'/>
 			<input type="submit" value="Go" />
- 
+			<p class="did-you-mean">{{spelling_correction}}</p>
 			<div>
 				<label>Select Category</label>
 				<select name="category" method="get" action="{{ url_for('results') }}">
@@ -26,10 +26,8 @@
 	  				{% endfor %}
 				</select>
 			</div>
-			
-
 		</form>	 
-			<div class="tiles-container">
+		<div class="tiles-container">
 			{% for title, content in results %}
 			<div class="tile">
 				<a href="{{title}}" target="_blank">{{title}}</a>

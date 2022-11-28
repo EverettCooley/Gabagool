@@ -1,0 +1,121 @@
+Link: https://recipes.fandom.com/wiki/Recipes_Wiki:Kitchen_Table
+
+The  Kitchen Table  is a centralized spot on the wiki where the community can discuss topics that concern everyone on the wiki. Think of it as a talk page for the entire database. If you want to open up discussion about a particular article, please do so on the Talk: page for that article. Don't forget to indent and sign your posts to make discussion easier to navigate.
+ 
+ Contents 
+ 
+ 1   The new Recipes Wiki 
+ 
+ 1.1   Today's tasks 
+ 1.2   Tor tasks 
+ 1.3   Croebot tasks 
+ 
+ 
+ 2   Add an Article Button 
+ 3   Missing Images 
+ 4   Changing link for How to Add Recipes... 
+ 5   Entire Cookbooks Added from Project Gutenberg 
+ 6   Deletion of Vacant Articles 
+ 7   Merge/Title Templates 
+ 8   Copyvios 
+ 9   New Monocao Sidebar 
+ 10   Some Pictures Still Missing 
+ 11   Wikia's New Style 
+ 12   Wikibooks cookbook 
+ 
+ 
+ The new Recipes Wiki : 
+ Okay, we've moved all of the Foodie content over to Recipes Wiki, which means that now there's lots of good pages here that all need to be cleaned up and reformatted.
+ Here are the steps that I can think of that need to be done in order to relaunch the wiki. If you think of more steps, please add them to the list -- and cross things off once they're done! With all of us working on this, we should be able to move through this smoothly. --  Danny  ( talk ) 23:21, 16 April 2008 (UTC)
+ 
+ Today's tasks : 
+ New main page design  (Nicole / Wendy / Colby / Phillip) 
+ Portal-style buttons to show off the content 
+ Wendy and I were talking yesterday about using pictures to represent categories like on the Wallace & Grommit wiki. Also, I know this doesn't have anything to do with the main page, but I was thinking of maybe working with the ethnic cuisine portals leftover from Foodopedia to create category portals.  Elocina  19:48, 24 April 2008 (UTC) 
+ Category clean-up  (Everyone) 
+ Figure out a category tree structure that makes sense 
+ Should there be separate category trees for Recipes and Encyclopedia articles? Like an article about an apple goes under the fruit category and an apple pie recipe is under fruit recipes and then apple recipes?  Elocina  19:13, 21 April 2008 (UTC)
+ Yes, I think the recipes need to be kept separate from Encyclopedia/ingredient articles. The tree I would like to see for recipes is as follows. 
+ Recipes 
+ By Ethnicity (Italian, Indian, Chinese,  Other )
+ Recipe Pages 
+ By Primary Ingredient (Beef, Beans, Lettuce,  Other Vegetables ,  Other Fish )
+ Recipe Pages 
+ By Course (Main Course, Side Dish, Desert)
+ Recipe Pages 
+ By Type of Dish (Salads, Muffins, Soups,  Other )
+ Recipe Pages 
+ The main key here though, is that when creating a catagory under one of the four main sections that there be at least ten recipes to fill that catagory. If there isn't a sufficient number to make a catagory, it should be placed in one of the  Other  sections. 
+ Now as far as encyclopedia articles, ingredients, which should follow the bellow tree. 
+ Ingredients 
+ Type (Meat, Poultry, Vegetables, Fruits, Spices, Herbs, Other, etc)
+ Ingredient Articles  Only if very narrow in scope  (Kohlrabi, Lobster, Basil) 
+ Variations  Only if broad in scope (Apples, Oranges, Melons, Other Fruits)
+ Ingredient Articles 
+ Once again, the main key here is knowing when to categorize. Only make break an article down into a variations catagory if there are at least four variations of the ingredient in question. If there are less then it should be given it's own article under the ingredient's corresponding type section. Kiwi and Golden Kiwi do not warrant their own Kiwi Variations section. Golden Delicious, Royal Gala, Mutsu, Empire etc etc do warrant their own Category:Apple_Variations section. I think another key thing to mention, is to look at it from a culinary perspective, not a scientific one.  Peanuts  for example should be placed in  Category:Nuts  not  Category:Podded vegetables 
+ The only other catagories of note that I can think of should be either a utensils catagory (Forks, Knives, Bowls, Pans, etc) which requires minimal tree structure, a techniques catagory (Boiling, Baking, Whisking etc) which requires no tree structure and a appliances catagory (Stove, Oven, Microwave, Blender, etc) 
+ Any other encyclopedic articles don't need their own catagory. After all, while knowledge of  Salmonella  is useful for an aspiring cook to know about, there isn't really a need for a "Diseases" catagory. Any comments or criticisms on this structure?  Statuary  03:57, 23 June 2008 (UTC) 
+ I'd like to see a Food Safety section somewhere, maybe in a to-be-created how-to area on the wiki, maybe in the encyclopedia. But if there was a food safety category in the encyclopedia,  Salmonella  could go there instead of diseases. Not that food safety is an ingredient, but I think there needs to be encyclopedia categories for things that aren't ingredients, like cooking equipment etc. Also, there are articles about cuisine types and that doesn't fall under the heading of ingredients either.  Elocina  17:10, 12 July 2008 (UTC) 
+ Create redirects to the categories 
+ Categorize content pages so they fit into the tree structure 
+ I would also like to add "Create a standardized ingredient article template" to the mix. The ingredient's section is facing massive amounts of excessive, and frankly foolish categorization. Category:Avocados is the perfect example of this. First due to it's location in the tree, where Category:Avocado_Variations would be much more appropriate. 
+ Second, this page could easily be worked into a single article, such as  Hass avocado  which is an excellent example of how an article should look, save that is has a unneeded category links to Category:Buying_Hass_avocado. A standardized ingredient (and even possibly recipe) template would fix a lot of these problems, and speed up article creation, enormously.  Statuary  03:57, 23 June 2008 (UTC) 
+ Category:Cleanup  (everyone) 
+ Look at the articles in  Category:Cleanup  -- what to do with them? 
+ Personally, I've never understood the reasons for why these articles were put in the cleanup category to begin with. The articles don't look like they are in need of copyediting. I'm wondering if most of the articles (barring those with major problems) should be moved out of the cleanup category. Thoughts?  Elocina  18:42, 20 April 2008 (UTC)
+ Also, I looked at the Category Tree for Breads and Cleanup is listed as a parent category. I know that the cleanup category will probably be needed (even if most of the articles listed for cleanup don't appear to need cleaning up), but it shouldn't remain as a parent category.  Elocina  00:21, 21 April 2008 (UTC)
+ Yeah, if the stuff doesn't need to be cleaned up, take 'em out of Cleanup. --  Danny  ( talk ) 18:48, 21 April 2008 (UTC)
+ Cool, I'll sort through the articles with the cleanup tag today. Also, is there a standard cleanup template for Wikia wikis that could be added. I think if you just categorize something cleanup without an explanation, it can be pretty meaningless.  Elocina  19:07, 21 April 2008 (UTC)
+ I'm actually not a big fan of stub templates, cleanup templates, etc and other kinds of failure boxes. All they do is advertise the wiki's flaws, and I think they tend to discourage editing rather than encouraging it. I think you just leave the pages as they are. People can tell when something's short or incomplete, and if they've got something to add, they will. I say take all the templates and junk out. --  Danny  ( talk ) 20:21, 21 April 2008 (UTC)
+ What about for articles with accuracy issues? Would discussion page comments take care of that kind of thing? Elocina  20:25, 21 April 2008 (UTC)
+ You can use  Template:Cite  for that... It's better than a big ol' failure box. You put {{cite}} right after the sentence that you're not sure about -- it adds a little (citation needed) footnote, with a link to  Recipes Wiki:FAQ#Show your sources . That lets people know exactly which piece of information is in question, so they can either fix it or ignore it, as appropriate. :) --  Danny  ( talk ) 20:51, 21 April 2008 (UTC)
+ I'm done cleaning out the cleanup category, however, there's some templates and things there that I left untouched, because I have no clue about in terms of whether they should be kept etc.  Elocina  19:53, 24 April 2008 (UTC) 
+ Tor tasks : 
+ Tech fixes  (Tor) 
+ Food Named After People still needs to get deleted. Everything else is done. 
+ Croebot tasks : 
+ Bot tasks  (Croebot) 
+ Delete date-related categories (Croebot) 
+ Delete user-related categories ("recipes by...") 
+ Add an Article Button : 
+Any ideas as to how this can be reincorporated into the front page? Thanks.  Elocina  19:34, 3 May 2008 (UTC) From  Recipes Wiki , a  Wikia  wiki. 
+ Missing Images : 
+ Just wondering why some of the images from the original Foodie import are still missing. See  Apple Pie  and  Asparagus  for examples.  Elocina  17:41, 19 May 2008 (UTC)
+ 
+ Changing link for How to Add Recipes... : 
+ How do I change it so that the How to Add Recipes link in the sidebar goes to  http://recipes.wikia.com/wiki/Help:New_page  instead of the overall listing of help pages? I figure it has something to do with modifying one of the Monaco.css files but can't figure out the exact way to do this.  Elocina  03:04, 31 May 2008 (UTC)
+ 
+ Entire Cookbooks Added from Project Gutenberg : 
+ I've stumbled across some pages that contain entire cookbooks from project Gutenberg, such as  Chocolate and Cocoa Recipes and Home Made Candy Recipes . I think the best idea with something like this is to separate the recipes on different pages, but does anyone know of a good way of doing this. Is this something that a bot could do?  Elocina  18:52, 5 June 2008 (UTC)
+ 
+ Deletion of Vacant Articles : 
+ I'm going to start adding several deletion tags in the ingredients section for the MANY vacant articles that are present. Simply put, there are too many articles that are following the trend of  Santa Claus melon . Articles that aren't properly capitalized and contain nothing more than hundreds of needless empty category links. There does not need to be a category on how to store every single ingredient. A heading and actual article information is all that should be present.  Statuary  03:56, 24 June 2008 (UTC)
+ 
+ Most of those articles came here during the merger with Cookbook Wiki. The category links were a Cookbook wiki thing. I know someone already said he's fix the category links. That's something that I can also work on this week. As for the now deleted Santa Claus melon, it was one of two articles about the topic, since there was also an article (which contained content) called  Santa Claus Melon .  Elocina  15:01, 24 June 2008 (UTC) 
+ Merge/Title Templates : 
+ Does anyone know if Recipes Wiki already has merge and/or title templates? I've done some searches and can't seem to find either. Thanks!  Elocina  04:57, 29 June 2008 (UTC)
+ 
+ Copyvios : 
+ I'm noticing that some of the glossary content that came in from Cookbook Wiki is taken verbatim from the Food Lover's Companion, a copyrighted book published by Barrons. Is there any common Wikia procedure for handling copyright violations?  Elocina  17:05, 12 July 2008 (UTC)
+ 
+ New Monocao Sidebar : 
+ Just wondering what happened with the Monaco sidebar menu. Apparently, the content has changed, but I don't see mention of it in recent changes. The top content and community links are great. There are some things I think should be added back, however -- such as I'd like to add back the add a recipe page, the how to add a recipe page as well as a link to forums that actually get used (as opposed to forums that haaven't been used since 2006) and the page about IRC (that can be put in community). I also don't know why the salt recipes category appears in the menu. When I go to edit the sidebar, for some reason, the old versoin of the sidebar is written there, but doesn't ever appear.
+ 
+ Some Pictures Still Missing : 
+ Just wondering if they'll ever come back.  Elocina  03:00, 2 August 2008 (UTC)
+ 
+ Wikia's New Style : 
+ Hi All,
+ I've been working on a new main page layout this morning. Hopefully you have read about the skin and ad changes at  Wikia's New Style  on Central Wikia. If not, I hope you'll have a look. 
+ One of the changes is a block of two ads on each main page. It's possible that they won't always show up, but to ensure your main page continues to work properly when they do, you need to update your main page column formatting code with  new column tags 
+ I have drafted a main page using the new tags on  here  which I hope you can take a look at - feel free to edit it of course. The main change to the layout is the fixed width of the right column. This still allows a lot of customisation - for example see these main pages -  w:c:muppet ,  w:c:wowwiki ,  w:c:ffxi . 
+ If you encounter any problems with the new tags, please  let me know .
+ Thanks --  Shawn  ( talk ) 22:25, 21 August 2008 (UTC)
+ 
+ Wikibooks cookbook : 
+ Could someone please explain what is the point in having two recipe wikis, this and the Wikibooks Cookbook? It seems that they are basically identical, except that WBCB is ad-free and run by Wikimedia, and uses the same style as the Wikimedia projects (Wikipedia, Wiktionary etc.). -- 99.238.31.18  05:45, December 2, 2009 (UTC)
+ 
+ 
+ 
+ 
+Categories:

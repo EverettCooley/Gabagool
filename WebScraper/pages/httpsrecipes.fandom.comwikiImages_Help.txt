@@ -1,0 +1,39 @@
+Link: https://recipes.fandom.com/wiki/Images_Help
+
+Contents 
+ 
+ 1   Uploading Images (Pictures) 
+ 2   Adding Your Image to an Article 
+ 3   Mini HowTo 
+ 4   Licenses 
+ 
+ 
+ Uploading Images (Pictures) : 
+ In order to upload an image, you must:
+ 
+ Have  created an account  here and 
+ Be logged in. 
+ Go to  Special:Upload . 
+ Before uploading images at  Special:Upload , make sure to read and follow the  image use policy . Please note that most images you might find on the Internet are copyrighted and not appropriate for uploading. If you did not create the image or are unable or unwilling to verify its copyright status,  do not upload the image . 
+ Use the form at  Special:Upload  to upload new image files for use in illustrating your articles. On most browsers, you will see a "Browse..." button, which will bring up your operating system's standard file open dialog. Choosing a file will fill the name of that file into the text field next to the button. You must also check the box affirming that you are not violating any copyrights by uploading the file. Press the "Upload" button to finish the upload. This may take some time if you have a slow Internet connection.
+ To view or search previously uploaded images,
+go to the  list of uploaded images .
+Uploads and deletions are logged on the  upload log .
+ Please note that as with wiki pages, others may edit or delete your uploads if they think it serves the website, and you may be blocked from uploading if you abuse the system.
+ 
+ Adding Your Image to an Article : 
+ To make your uploaded file appear in an article, you need to insert it: edit the article and add the syntax 
+ [[Image: Image name ]]
+ where you want the file to appear.
+ 
+ Mini HowTo : 
+ The  Upload file  screen has three fields. The  Source filename  field with the browse button allows you to choose a file on your local system. The  Destination filename  is the name used to link to the image from articles. If JavaScript is enabled, it will be set automatically to the same name as the one you have specified in the Source filename field, but may be changed to any valid name you wish. For the convenience of non-JavaScript users, if the destination field is left blank, source filename will be used. The  Summary  field appears below the image on and image page, and allows Wiki markup. Here you should include a brief description of what the image is, its source, and what license you are uploading it under.
+ Submitting  this information will upload the image and save the summary. There is no preview, as there is for editing pages. Nevertheless, after the image is uploaded, you can still click the edit button and make changes to the summary and license, should you make a mistake you did not catch beforehand. If there is already a file uploaded with the Destination filename that you chose, you are given the option to save anyway and overwrite the old file (although it remains in the image history), or returning to the upload form and specifying a new filename.
+ 
+ Licenses : 
+ You must state the copyright information regarding the image. Further,  always state the source of the image. 
+ 
+ 
+ 
+ 
+Categories: Recipes wiki, Add category

@@ -1,0 +1,736 @@
+Link: https://recipes.fandom.com/wiki/Onion_powder_Nutrient_Charts_-_1_tbsp_chopped
+
+Spices, onion powder : 
+ Refuse:   0%   Scientific Name:    Allium cepa NDB No:  02026 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+ 1.00 X 1 tbsp  ------- 6.9g
+ 
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  0.35 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  24 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  100 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  0.70 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  0.07 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  0.22 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  5.57 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  0.4 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  2.45 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  25 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  0.18 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  8 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  23 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  65 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  4 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  0.16 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.012 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.026 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  0.1 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  1.0 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.029 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.004 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  0.045 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.084 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  11 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  11 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  11 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin B-12, added
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  0 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  0 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  0.02 
+ 
+ 
+ Vitamin E, added
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Tocopherol, beta
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Tocopherol, gamma
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Tocopherol, delta
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Vitamin K (phylloquinone)
+ 
+ 
+ mcg 
+ 
+  0.3 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  0.013 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  0.012 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.001 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  0.011 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.011 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  0.030 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  0.029 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.001 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Phytosterols
+ 
+ 
+ mg 
+ 
+  6 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.008 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.014 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.020 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.023 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.032 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.006 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.012 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.017 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.016 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.016 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.092 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.009 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.015 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.035 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  0.130 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.023 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.028 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.017 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ 
+ 
+Categories: Onion, Add category

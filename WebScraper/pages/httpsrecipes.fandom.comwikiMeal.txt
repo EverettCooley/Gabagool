@@ -1,0 +1,16 @@
+Link: https://recipes.fandom.com/wiki/Meal
+
+Instance of eating : 
+ A meal is an instance of eating, specifically one that takes place at a specific time and includes specific, prepared food.         
+ A meal is composed of food. Food can be treated as a code, the message that is found in the pattern can express social relations. 
+ Meals occur primarily at homes, restaurants, and cafeterias, but may occur anywhere . Regular meals occur on a daily basis, typically several times a day. Special meals are usually held in conjunction with such occasions as birthdays, weddings, anniversaries, and holidays. 
+ A meal is different from a snack in that meals are larger and more filling, while snacks are more likely to be small, high-calorie affairs; however, any food eaten in small amounts at an unscheduled time can be classified as a snack. 
+ A picnic is an outdoor meal where one brings one's food, such as a sandwich or a prepared meal in a picnic basket. It often takes place in a natural or recreative area, such as a park, forest, or beach. On long drives a picnic may take place at a road-side stop such as a rest area. 
+ A banquet is a large, often formal, and elaborate meal with many guests and dishes. 
+ Ground form of food : 
+ Meal can also refer to the ground form of various foods, notably grains and nuts. Ground corn is known as cornmeal, for example. 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/recipes/images/a/a2/Lasagna_Small.jpg/revision/latest?cb=20100107220215']
+Categories: Glossary, Add category

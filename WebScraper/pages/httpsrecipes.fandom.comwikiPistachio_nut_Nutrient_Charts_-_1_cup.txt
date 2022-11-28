@@ -1,0 +1,847 @@
+Link: https://recipes.fandom.com/wiki/Pistachio_nut_Nutrient_Charts_-_1_cup
+
+== Nuts, pistachio nuts, raw == Refuse:   47%  (Shells) Scientific Name:    Pistacia vera NDB No:  12151 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+ 1.00 X 1 cup  ------- 123g
+ 
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  4.88 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  685 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  2868 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  25.35 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  54.66 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  3.71 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  34.40 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  12.7 
+ 
+ 
+ Sugars, total
+ 
+ 
+ g 
+ 
+  9.40 
+ 
+ 
+ Sucrose
+ 
+ 
+ g 
+ 
+  8.61 
+ 
+ 
+ Glucose (dextrose)
+ 
+ 
+ g 
+ 
+  0.33 
+ 
+ 
+ Fructose
+ 
+ 
+ g 
+ 
+  0.21 
+ 
+ 
+ Lactose
+ 
+ 
+ g 
+ 
+  0.00 
+ 
+ 
+ Maltose
+ 
+ 
+ g 
+ 
+  0.25 
+ 
+ 
+ Starch
+ 
+ 
+ g 
+ 
+  2.05 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  132 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  5.10 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  149 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  603 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  1261 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  1 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  2.71 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  1.599 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  1.476 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  8.6 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  6.2 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  1.070 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.197 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  1.599 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  0.640 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  2.091 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  63 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  63 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  63 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  680 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  34 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Vitamin E (alpha-tocopherol)
+ 
+ 
+ mg 
+ 
+  2.83 
+ 
+ 
+ Tocopherol, beta
+ 
+ 
+ mg 
+ 
+  0.00 
+ 
+ 
+ Tocopherol, gamma
+ 
+ 
+ mg 
+ 
+  27.80 
+ 
+ 
+ Tocopherol, delta
+ 
+ 
+ mg 
+ 
+  0.98 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  6.691 
+ 
+ 
+ 4:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 6:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 8:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 10:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 15:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  6.013 
+ 
+ 
+ 17:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.573 
+ 
+ 
+ 20:0
+ 
+ 
+ g 
+ 
+  0.053 
+ 
+ 
+ 22:0
+ 
+ 
+ g 
+ 
+  0.053 
+ 
+ 
+ 24:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  28.682 
+ 
+ 
+ 14:1
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.569 
+ 
+ 
+ 13:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  27.904 
+ 
+ 
+ 20:1
+ 
+ 
+ g 
+ 
+  0.209 
+ 
+ 
+ 22:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 24:1 c
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  16.550 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  16.237 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.312 
+ 
+ 
+ 18:4
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:2 n-6 c,c
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:4 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 20:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:5 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 22:6 n-3
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Phytosterols
+ 
+ 
+ mg 
+ 
+  263 
+ 
+ 
+ Stigmasterol
+ 
+ 
+ mg 
+ 
+  6 
+ 
+ 
+ Campesterol
+ 
+ 
+ mg 
+ 
+  12 
+ 
+ 
+ Beta-sitosterol
+ 
+ 
+ mg 
+ 
+  244 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.336 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.828 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  1.107 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  1.911 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  1.416 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.416 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.439 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  1.306 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.510 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  1.524 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  2.494 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.624 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  1.133 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  2.235 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  4.697 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  1.172 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.999 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  1.507 
+ Other 
+ 
+ 
+ Alcohol, ethyl
+ 
+ 
+ g 
+ 
+  0.0 
+ 
+ 
+ Caffeine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Theobromine
+ 
+ 
+ mg 
+ 
+  0 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  408 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ 
+ 
+Categories: Nuts, Add category

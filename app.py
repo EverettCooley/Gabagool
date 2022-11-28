@@ -9,21 +9,15 @@
 # For the moment when you search data looks like shit but we will format later once we have full functionality
 
 # Next we need to override the whoosh searcher to implement page rank I will work on that
-#  
-
-from flask import Flask, render_template, url_for, request
+from flask import Flask, render_template, request, make_response, jsonify
 import whoosh
-from whoosh.index import create_in
-from whoosh.index import open_dir
 from whoosh.fields import *
 from whoosh.qparser import QueryParser
 from whoosh.qparser import MultifieldParser
 from whoosh import qparser
 from whoosh import scoring
-
 import pickle
 
- 
 app = Flask(__name__)
 
 # Open our dictionary containing page rank values
@@ -40,6 +34,24 @@ def index():
     print("Someone is at the home page.")
     return render_template('welcome_page.html', categories=categories)
 
+@app.route('/complete/', methods=['POST'])
+def intermediate():
+    req = request.get_json()
+    current_q = req['message']
+    if current_q == "":
+        return make_response(jsonify(''), 200)
+    
+    current_q = current_q.split()
+    current_word = current_q[-1]
+    if len(current_word) < 3:
+        return make_response(jsonify(''), 200)
+
+    mySearcher = MyWhooshSearcher()
+    frequent_term = mySearcher.reader.most_frequent_terms("textdata", number=1, prefix=current_word)
+    frequent_term = frequent_term[0][1].decode("ascii")
+    res = make_response(jsonify(frequent_term), 200)
+    return res
+
 @app.route('/my-link/')
 def my_link():
     print('I got clicked!')
@@ -48,7 +60,6 @@ def my_link():
 # Load results page
 @app.route('/results/', methods=['GET', 'POST'])
 def results():
-
     global mySearcher
     if request.method == 'POST':
         data = request.form
@@ -73,8 +84,6 @@ def results():
         temp = description.split('\n', 1)
         urls.append(temp[0][6:])
         description = temp[1]
-        #print(description)
-
         current_desc = ''
         for word in query.split():
             result = find_substring(description, word)
@@ -84,8 +93,52 @@ def results():
             description = description.split()
             current_desc = " ".join(description[:20])
         contents.append(current_desc)
+
+    spelling_correction = find_word_corrections(query, mySearcher.reader)
+    print(spelling_correction)
  
-    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories)
+    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction)
+
+
+# corrects spelling of query
+def find_word_corrections(q, reader):
+    print("Finding word corrections for: " + q)
+    q = q.strip().split()
+    corrections = []
+    correction_indexs = set()
+    i = 0
+    for word in q:
+        word = word.lower()
+        top_freq, top_word = 0, ""
+        matches = reader.terms_within("textdata", text=word, maxdist=1, prefix=1)
+        for match in matches:
+            term_frequecy = term_freq(match, reader)
+            if term_frequecy > top_freq:
+                top_freq = term_frequecy
+                top_word = match
+
+        if top_word != "" and top_word != word:
+            corrections.append(top_word)
+            correction_indexs.add(i)
+        i+=1
+
+    result = ""
+    if len(corrections) > 0:
+        result = 'Did you mean: " '
+        for i in range(len(q)):
+            if i in correction_indexs:
+                result += str(corrections.pop(0)) + " "
+            else:
+                result += str(q[i]) + " "
+        result += '" ?'
+    print("result = ", result)
+    return result
+
+
+# helper function of find_word_corrections
+def term_freq(term, reader):
+    return reader.frequency("textdata", term)
+
 
 def find_substring(base, term):
     base = base.split()
@@ -138,7 +191,8 @@ def loadImages(f):
 class MyWhooshSearcher(object):
     """docstring for MyWhooshSearcher"""
     def __init__(self):
-        #self.indexer = index.open_dir('myIndex')
+        self.ix = whoosh.index.open_dir('src/myIndex')
+        self.reader = self.ix.reader()
         super(MyWhooshSearcher, self).__init__()
          
     # Function to search takes in user entered query and category selected
@@ -186,28 +240,11 @@ class MyWhooshSearcher(object):
             
         return title, description
 
-    # ****** DON'T NEED THIS ********
-    # ****** SEE HW4 FOLDER FOR BUILDING INDEX *****
-    # def index(self):
-    #     schema = Schema(id=ID(stored=True), title=TEXT(stored=True), description=TEXT(stored=True))
-    #     indexer = create_in('myIndex', schema)
-    #     writer = indexer.writer()
-
-    #     writer.add_document(id=u'1', title=u'hello there', description=u'cs hello, how are you')
-    #     writer.add_document(id=u'2', title=u'hello bye', description=u'nice to meetcha')
-    #     writer.commit()
-
-    #     self.indexer = indexer
-
-# indexer = index()
-# search(indexer, 'nice')
 
 if __name__ == '__main__':
     global mySearcher
     mySearcher = MyWhooshSearcher()
     mySearcher.index()
-    #title, description = mySearcher.search('hello')
-    #print(title)
     app.run(debug=True)
 
 

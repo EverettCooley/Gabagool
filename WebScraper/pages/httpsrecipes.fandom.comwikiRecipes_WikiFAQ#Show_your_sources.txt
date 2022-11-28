@@ -1,0 +1,67 @@
+Link: https://recipes.fandom.com/wiki/Recipes_Wiki:FAQ#Show_your_sources
+
+ ←   Help:Contents 
+ Contents 
+ 
+ 1   You're a part of the wiki! 
+ 2   Create a user name 
+ 3   Talk pages 
+ 4   Fancy signatures 
+ 5   How to upload pictures 
+ 6   How to add category tags 
+ 7   External links 
+ 8   History tab 
+ 9   Setting your preferences 
+ 10   Dealing with vandalism 
+ 
+ 
+ You're a part of the wiki! : 
+ When you first see a wiki, it doesn't seem like it could possibly work. If anybody can come along and change things, then how can the information be trusted? Doesn't it just get vandalized, or fall into chaos?
+ Once you start participating, you see that that "weakness" is actually a wiki's greatest strength. Sure, anybody can add anything -- and then everybody else gets to proofread it, and fix mistakes. Information that looks suspicious can be verified. Vandalism is almost always fixed within minutes. It's possible for someone to post errors, or nonsense -- but over time, the best wins out.
+ If you're reading these words, then you're an editor. If you see a problem on one of the pages, don't roll your eyes and complain about it. Just fix it! 
+ 
+ Create a user name : 
+ Log in  and create a user name -- it helps you (and everybody) keep track of your contributions, and it makes it possible to communicate with other contributors. 
+ 
+ Talk pages : 
+ Sign talk posts with four tildes ~~~~ which automatically adds your user name and a date stamp. When you reply on a talk page, put a colon (:) at the front of your post to indent it.
+ See  Help:Talk pages  for more details.
+ 
+ Fancy signatures : 
+ Here's how to make a fancy signature for your talk posts:
+ Click on the "preferences" tab at the top right of your screen.
+ On the Preferences page, put this in the Nickname box, with your User name and real first name plugged in:
+ 
+ — [[User: Username | Firstname ]] ([[User talk: Username |<font size="1">talk</font>]]) 
+ Then check the "Raw signatures" box underneath, and hit the "Save" button at the bottom of the page.
+ Then, when you sign your talk posts, you just have to type the four tildes, and the new signature will appear. You can tweak that code in a bunch of different ways; feel free to play around with it!
+ 
+ How to upload pictures : 
+ Click on "Upload file" on the navigation bar to upload pictures. You can add your image to any page using this code: 
+ 
+ [[Image: yourpicture.jpg |thumb|300px| Caption for your picture. ]] 
+ Images should not exceed 300 pixels wide for article tidyness and copyright adherence.
+ If you upload an image in error, or do not intend to use it, tag the article with {{delete}} so that an administrator can remove the file from the wiki. Images are subject for deletion if they are not used.
+ 
+ How to add category tags : 
+ You can put an article into a category by adding this code: [[Category:YourCategory]] . You can change the way the article is alphabetized within the category like this: [[Category:Movies|Empire Strikes Back, The]].
+ Before you create a category, check the  Category list  to see if there's a similar category that already exists. If the category doesn't exist yet, then adding that code will create the category. You'll need to add some text to the new category page to make it work properly.
+ 
+ External links : 
+ You can add links to other websites by putting one bracket around the site's address. Put a space after the address, and then add a description of the link, like this: [http://www.wikia.com Wikia]. That'll look like this:  Wikia .
+ 
+ History tab : 
+ Nothing is ever lost on a wiki! You can see all of the changes that have been made to a page -- and who made them -- by clicking on the "History" tab at the top of any page.
+ 
+ Setting your preferences : 
+ There's a lot of useful stuff on your  Preferences page . 
+ You can change your display so that links show up without the underlining. You can also change your time zone, and the number of items you see on the Recent Changes page or the Category list.
+ 
+ Dealing with vandalism : 
+ Vandalism isn't much of a problem on a wiki, because everybody has the power to fix it when they see it. See the  Vandalism help page  for instructions on how to fix vandalized pages, and how to discourage the vandals.
+ 
+ From  Recipes Wiki , a  Wikia  wiki. 
+ 
+ 
+ 
+Categories:

@@ -1,0 +1,10 @@
+Link: https://recipes.fandom.com/wiki/Category:Browse
+
+This is our top-level category. (Looking at it another way, it is our root category!)
+ Ideally, every other category should be a subcategory of at least one other, and every article should be in at least one category; many will fit well into two (eg location and subject-matter). A full list of existing categories can be found at  Special:Categories .
+ 
+To add a new category, just add [[category:categoryname]] to the article or existing category page (after checking whether any existing category is suitable). From  Recipes Wiki , a  Wikia  wiki. 
+ 
+ 
+ 
+Categories: Recipes wiki, Add category

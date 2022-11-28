@@ -1,0 +1,53 @@
+Link: https://recipes.fandom.com/wiki/Creating_an_Account
+
+Click  here  to create an account/log in (or the  log in  button on the top right of every page).
+ 
+ Contents 
+ 
+ 1   Summary of benefits and abilities given to users with accounts 
+ 2   Benefits explained 
+ 
+ 2.1   Username 
+ 2.2   Many user preferences 
+ 2.3   Administrator status 
+ 
+ 
+ 
+ 
+ Summary of benefits and abilities given to users with accounts : 
+ The ability to  upload images . 
+ The use of a username of your choice. 
+ The ability to view all of your contributions via a "My contributions" link. 
+ Your own user page. 
+ Your own talk page. 
+ The ability to customize the appearance and behavior of the website. 
+ The eligibility to become an  administrator . 
+ All your edits will be attributed to your username. 
+ Your IP address will no longer be visible to other users. 
+ Comments are attributable to your username 
+ Benefits explained : 
+ Username : 
+ If you  create an account , you can pick a  username.  Edits you make while logged in will be assigned to that name. That means you get full credit for your contributions in the page history (when not logged in, the edits are just assigned to your IP address). You can also view all your contributions by clicking the "My contributions" link on the left siedebar, which is visible only when you are logged in.
+ You will have your own  user page  (there will be a link to your usepage on the top right of every page when you are logged in) where you can write a bit about yourself. 
+ You will have a permanent  user talk page  you can use to communicate with other users (click on the  Discuss this page  link on the top of your user page to access your user talk page). If you choose to give an e-mail address, other users will be able to contact you by e-mail. This feature is  anonymous ; the user who emails you will not know your e-mail address.
+ Further, logged in users have their usernames linked to any comments they put on news and opinion pages. Their usernames are clickable and lead to their user page. 
+ 
+ 
+ Many user preferences : 
+ Aside from these features, you can customize the way MediaWiki behaves in great detail by altering your preferences at  Special:preferences . There you can change the following display settings:
+ 
+ Under  skin : choose between various options as to the appearance of the website. 
+ Under  files : how large image thumbnails are displayed 
+ And various editing preferences:
+ 
+ How large the editing box should be 
+ How pages should be displayed in recent changes 
+ ... and many others (they're pretty self-explanatory). 
+ Administrator status : 
+ Administrators  (sometimes known as sysops, short for System Operator) can delete and restore pages, protect them from being edited, edit protected pages, and block users for violation of our policies. 
+ Only signed-in users can become administrators. If you are a signed-in user and want to be an administrator, see  Becoming an Administrator  for more information.
+ 
+ 
+ 
+ 
+Categories: Recipes wiki, Add category

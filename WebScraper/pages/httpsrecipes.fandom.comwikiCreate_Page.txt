@@ -1,0 +1,12 @@
+Link: https://recipes.fandom.com/wiki/Create_Page
+
+
+ 
+ To create a page, simply fill in the spaces below as instructed. Click submit and contribute to the food encyclopedia!
+ 
+ <createpage>category=General</createpage>
+ 
+ 
+ 
+ 
+Categories: Recipes wiki, Add category

@@ -1,0 +1,560 @@
+Link: https://recipes.fandom.com/wiki/Acorn_squash_Nutrient_Charts_-_1_cup_chopped
+
+Squash, winter, acorn, raw : 
+ Refuse:   24%  (Rind) Scientific Name:    Cucurbita maxima NDB No:  11482 (Nutrient values and weights are for edible portion) 
+ 
+ Nutrient
+ 
+ 
+ Units
+ 
+ 
+ 1.00 X 1 cup, cubes  ------- 140g
+ 
+ Proximates 
+ 
+ 
+ Water
+ 
+ 
+ g 
+ 
+  122.89 
+ 
+ 
+ Energy
+ 
+ 
+ kcal 
+ 
+  56 
+ 
+ 
+ Energy
+ 
+ 
+ kj 
+ 
+  234 
+ 
+ 
+ Protein
+ 
+ 
+ g 
+ 
+  1.12 
+ 
+ 
+ Total lipid (fat)
+ 
+ 
+ g 
+ 
+  0.14 
+ 
+ 
+ Ash
+ 
+ 
+ g 
+ 
+  1.26 
+ 
+ 
+ Carbohydrate, by difference
+ 
+ 
+ g 
+ 
+  14.59 
+ 
+ 
+ Fiber, total dietary
+ 
+ 
+ g 
+ 
+  2.1 
+ Minerals 
+ 
+ 
+ Calcium, Ca
+ 
+ 
+ mg 
+ 
+  46 
+ 
+ 
+ Iron, Fe
+ 
+ 
+ mg 
+ 
+  0.98 
+ 
+ 
+ Magnesium, Mg
+ 
+ 
+ mg 
+ 
+  45 
+ 
+ 
+ Phosphorus, P
+ 
+ 
+ mg 
+ 
+  50 
+ 
+ 
+ Potassium, K
+ 
+ 
+ mg 
+ 
+  486 
+ 
+ 
+ Sodium, Na
+ 
+ 
+ mg 
+ 
+  4 
+ 
+ 
+ Zinc, Zn
+ 
+ 
+ mg 
+ 
+  0.18 
+ 
+ 
+ Copper, Cu
+ 
+ 
+ mg 
+ 
+  0.091 
+ 
+ 
+ Manganese, Mn
+ 
+ 
+ mg 
+ 
+  0.234 
+ 
+ 
+ Selenium, Se
+ 
+ 
+ mcg 
+ 
+  0.7 
+ Vitamins 
+ 
+ 
+ Vitamin C, total ascorbic acid
+ 
+ 
+ mg 
+ 
+  15.4 
+ 
+ 
+ Thiamin
+ 
+ 
+ mg 
+ 
+  0.196 
+ 
+ 
+ Riboflavin
+ 
+ 
+ mg 
+ 
+  0.014 
+ 
+ 
+ Niacin
+ 
+ 
+ mg 
+ 
+  0.980 
+ 
+ 
+ Pantothenic acid
+ 
+ 
+ mg 
+ 
+  0.560 
+ 
+ 
+ Vitamin B-6
+ 
+ 
+ mg 
+ 
+  0.216 
+ 
+ 
+ Folate, total
+ 
+ 
+ mcg 
+ 
+  24 
+ 
+ 
+ Folic acid
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Folate, food
+ 
+ 
+ mcg 
+ 
+  24 
+ 
+ 
+ Folate, DFE
+ 
+ 
+ mcg_DFE 
+ 
+  24 
+ 
+ 
+ Vitamin B-12
+ 
+ 
+ mcg 
+ 
+  0.00 
+ 
+ 
+ Vitamin A, IU
+ 
+ 
+ IU 
+ 
+  514 
+ 
+ 
+ Vitamin A, RAE
+ 
+ 
+ mcg_RAE 
+ 
+  25 
+ 
+ 
+ Retinol
+ 
+ 
+ mcg 
+ 
+  0 
+ Lipids 
+ 
+ 
+ Fatty acids, total saturated
+ 
+ 
+ g 
+ 
+  0.029 
+ 
+ 
+ 12:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 14:0
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 16:0
+ 
+ 
+ g 
+ 
+  0.025 
+ 
+ 
+ 18:0
+ 
+ 
+ g 
+ 
+  0.003 
+ 
+ 
+ Fatty acids, total monounsaturated
+ 
+ 
+ g 
+ 
+  0.010 
+ 
+ 
+ 16:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.000 
+ 
+ 
+ 18:1 undifferentiated
+ 
+ 
+ g 
+ 
+  0.010 
+ 
+ 
+ Fatty acids, total polyunsaturated
+ 
+ 
+ g 
+ 
+  0.059 
+ 
+ 
+ 18:2 undifferentiated
+ 
+ 
+ g 
+ 
+  0.022 
+ 
+ 
+ 18:3 undifferentiated
+ 
+ 
+ g 
+ 
+  0.036 
+ 
+ 
+ Cholesterol
+ 
+ 
+ mg 
+ 
+  0 
+ Amino acids 
+ 
+ 
+ Tryptophan
+ 
+ 
+ g 
+ 
+  0.015 
+ 
+ 
+ Threonine
+ 
+ 
+ g 
+ 
+  0.034 
+ 
+ 
+ Isoleucine
+ 
+ 
+ g 
+ 
+  0.043 
+ 
+ 
+ Leucine
+ 
+ 
+ g 
+ 
+  0.063 
+ 
+ 
+ Lysine
+ 
+ 
+ g 
+ 
+  0.041 
+ 
+ 
+ Methionine
+ 
+ 
+ g 
+ 
+  0.014 
+ 
+ 
+ Cystine
+ 
+ 
+ g 
+ 
+  0.010 
+ 
+ 
+ Phenylalanine
+ 
+ 
+ g 
+ 
+  0.043 
+ 
+ 
+ Tyrosine
+ 
+ 
+ g 
+ 
+  0.038 
+ 
+ 
+ Valine
+ 
+ 
+ g 
+ 
+  0.048 
+ 
+ 
+ Arginine
+ 
+ 
+ g 
+ 
+  0.062 
+ 
+ 
+ Histidine
+ 
+ 
+ g 
+ 
+  0.021 
+ 
+ 
+ Alanine
+ 
+ 
+ g 
+ 
+  0.046 
+ 
+ 
+ Aspartic acid
+ 
+ 
+ g 
+ 
+  0.120 
+ 
+ 
+ Glutamic acid
+ 
+ 
+ g 
+ 
+  0.196 
+ 
+ 
+ Glycine
+ 
+ 
+ g 
+ 
+  0.041 
+ 
+ 
+ Proline
+ 
+ 
+ g 
+ 
+  0.039 
+ 
+ 
+ Serine
+ 
+ 
+ g 
+ 
+  0.043 
+ Other 
+ 
+ 
+ Carotene, beta
+ 
+ 
+ mcg 
+ 
+  308 
+ 
+ 
+ Carotene, alpha
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Cryptoxanthin, beta
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lycopene
+ 
+ 
+ mcg 
+ 
+  0 
+ 
+ 
+ Lutein + zeaxanthin
+ 
+ 
+ mcg 
+ 
+  53 
+ 
+ 
+ 
+ 
+Categories: Winter squash, Add category

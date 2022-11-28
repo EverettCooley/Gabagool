@@ -1,0 +1,16 @@
+Link: https://recipes.fandom.com/wiki/Starting_a_Cookbook
+
+
+ 
+ 
+ 
+ Individual users can collect and display all their recipes on their user page.
+ 
+ Creating Your Cookbook 
+ Create an account . 
+ On your user page, put {{Cookbook}}, squiggles and all. (Your user page can be accessed by clicking "User: Username " over at the top right anytime you are logged in.) 
+ Add recipes .  Whenever you write a recipe, be sure you're signed in. 
+ 
+ 
+ 
+Categories: Articles, Add category
