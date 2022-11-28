@@ -12,12 +12,13 @@
 
 		<form method="get" action="{{ url_for('results') }}">
 			<label for="searchterm">The Gabagool</label><br/>
+			<!-- <input type="text" name="searchterm" /><br /> -->
 			<input type="text" name='test'/>
 			<input type="submit" value="Go" />
-		</form>	
-		<div>
+ 
+			<div>
 				<label>Select Category</label>
-				<select name="category" method="get">
+				<select name="category" method="get" action="{{ url_for('results') }}">
 
 	  				<option value="" selected></option>
 	  				{% for cat in categories[2:] %}
@@ -25,6 +26,9 @@
 	  				{% endfor %}
 				</select>
 			</div>
+			
+
+		</form>	 
 			<div class="tiles-container">
 			{% for title, content in results %}
 			<div class="tile">

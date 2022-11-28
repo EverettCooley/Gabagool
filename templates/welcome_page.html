@@ -13,10 +13,10 @@
 			<!-- <input type="text" name="searchterm" /><br /> -->
 			<input type="text" name='test'/>
 			<input type="submit" value="Go" />
-
+ 
 			<div>
 				<label>Select Category</label>
-				<select name="category" method="get">
+				<select name="category" method="get" action="{{ url_for('results') }}">
 
 	  				<option value="" selected></option>
 	  				{% for cat in categories[2:] %}
@@ -24,8 +24,9 @@
 	  				{% endfor %}
 				</select>
 			</div>
+			
 
 		</form>	 
-		</form>
+		
 	</body>	
 </html>
