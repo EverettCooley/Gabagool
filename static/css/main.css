@@ -85,8 +85,13 @@ td {
 }
 
 .search-bar label {
-        display: block;
-        text-align: center;
-        line-height: 150%;
-        font-size: .85em;
+    display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: .85em;
+}
+
+.did-you-mean {
+    font-size: .5em;
+    font-style: italic;
 }

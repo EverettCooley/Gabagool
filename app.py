@@ -9,22 +9,34 @@
 # For the moment when you search data looks like shit but we will format later once we have full functionality
 
 # Next we need to override the whoosh searcher to implement page rank I will work on that
-#  
-
-from flask import Flask, render_template, url_for, request
+from flask import Flask, render_template, request, make_response, jsonify
 import whoosh
-from whoosh.index import create_in
-from whoosh.index import open_dir
 from whoosh.fields import *
 from whoosh.qparser import MultifieldParser
-
-
 
 app = Flask(__name__)
 @app.route('/', methods=['GET', 'POST'])
 def index():
     print("Someone is at the home page.")
     return render_template('welcome_page.html')
+
+@app.route('/complete/', methods=['POST'])
+def intermediate():
+    req = request.get_json()
+    current_q = req['message']
+    if current_q == "":
+        return make_response(jsonify(''), 200)
+    
+    current_q = current_q.split()
+    current_word = current_q[-1]
+    if len(current_word) < 3:
+        return make_response(jsonify(''), 200)
+
+    mySearcher = MyWhooshSearcher()
+    frequent_term = mySearcher.reader.most_frequent_terms("textdata", number=1, prefix=current_word)
+    frequent_term = frequent_term[0][1].decode("ascii")
+    res = make_response(jsonify(frequent_term), 200)
+    return res
 
 @app.route('/my-link/')
 def my_link():
@@ -33,6 +45,7 @@ def my_link():
 
 @app.route('/results/', methods=['GET', 'POST'])
 def results():
+    print("loaded")
     global mySearcher
     if request.method == 'POST':
         data = request.form
@@ -68,7 +81,6 @@ def results():
     print(spelling_correction)
  
     return render_template('results.html', query=query, results=zip(urls, contents), spelling_correction=spelling_correction)
-
 
 
 # corrects spelling of query
