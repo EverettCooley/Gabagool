@@ -1,8 +1,0 @@
-Link: https://recipes.fandom.com/wiki/User:IngredientSortBot
-
-This is a bot being designed to sort recipes by ingredients and create hyperlinks for ingredients within the recipes.
- 
- 
- 
- 
-Categories:
