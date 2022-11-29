@@ -7,9 +7,7 @@
 		<link rel="stylesheet" href="{{ url_for('static', filename='../static/css/main.css') }}">
 		<title>Results</title>
 	</head>
-
 	<body>
-
 		<form method="get" action="{{ url_for('results') }}">
 			<label for="searchterm">The Gabagool</label><br/>
 			<!-- <input type="text" name="searchterm" /><br /> -->
@@ -72,7 +70,6 @@
 		<form method="post" action="{{ url_for('index') }}">
 			<input type="submit" value="Return" />
 		</form>	
-
 		<form method="get" action="{{ url_for('pageresult') }}">
 			<label for="searchterm"></label><br/>
 			<input id="search-input" autocomplete="off" type="text" name='page'/>

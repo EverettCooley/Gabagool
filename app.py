@@ -70,6 +70,54 @@ def valid():
     code = urllib.request.urlopen("https://stackoverflow.com").getcode()
     return make_response(jsonify(code), 200)
 
+@app.route('/pageresult/', methods=['GET','POST'])
+def pageresult():
+    if request.method == 'POST':
+        data = request.form
+    else:
+        data = request.args
+    page_n = data.get('page')
+    cat = data.get('category') 
+
+    page_n = page_n.split()
+    query = str(page_n[0])
+    page_n = int(page_n[1])
+
+    print(page_n)
+    print(query)
+    print(cat)
+
+
+    global mySearcher
+    # Create searcher and search
+    mySearcher = MyWhooshSearcher()
+    titles, descriptions = mySearcher.search(query, cat) 
+
+    urls = []
+    contents = []
+
+    # Grab descriptions and external link
+    for i, description in enumerate(descriptions):
+        temp = description.split('\n', 1)
+        urls.append(temp[0][6:])
+        description = temp[1]
+        #print(description)
+
+        current_desc = ''
+        for word in query.split():
+            result = find_substring(description, word)
+            if result != 0:
+                current_desc = " ".join(result)
+        if current_desc == '':
+            description = description.split()
+            current_desc = " ".join(description[:20])
+        contents.append(current_desc)
+
+    spelling_correction = find_word_corrections(query, mySearcher.reader)
+    urls = urls[(page_n*10)-10:page_n*10]
+    contents = contents[(page_n*10)-10:page_n*10]
+    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction)
+
 # Load results page
 @app.route('/results/', methods=['GET', 'POST'])
 def results():
@@ -110,7 +158,8 @@ def results():
         contents.append(current_desc)
 
     spelling_correction = find_word_corrections(query, mySearcher.reader)
-
+    urls = urls[:10]
+    contents = contents[:10]
     return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction)
 
 # corrects spelling of query
