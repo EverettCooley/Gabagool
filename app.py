@@ -36,7 +36,7 @@ def index():
     return render_template('welcome_page.html', categories=categories)
 
 @app.route('/complete/', methods=['POST'])
-def intermediate():
+def complete():
     req = request.get_json()
     current_q = req['message']
     if current_q == "":
@@ -48,10 +48,14 @@ def intermediate():
         return make_response(jsonify(''), 200)
 
     mySearcher = MyWhooshSearcher()
-    frequent_term = mySearcher.reader.most_frequent_terms("textdata", number=1, prefix=current_word)
-    frequent_term = frequent_term[0][1].decode("ascii")
-    res = make_response(jsonify(frequent_term), 200)
-    return res
+    try:
+        frequent_term = mySearcher.reader.most_frequent_terms("textdata", number=1, prefix=current_word)
+        frequent_term = frequent_term[0][1].decode("ascii")
+    except IndexError:
+        print("string is not in index")
+        return make_response(jsonify(''), 400)
+
+    return make_response(jsonify(frequent_term), 200)
 
 @app.route('/my-link/')
 def my_link():
@@ -76,7 +80,6 @@ def results():
     # Create searcher and search
     mySearcher = MyWhooshSearcher()
     titles, descriptions = mySearcher.search(query, cat) 
-
 
     urls = []
     contents = []
@@ -104,7 +107,6 @@ def results():
 
 # corrects spelling of query
 def find_word_corrections(q, reader):
-    print("Finding word corrections for: " + q)
     q = q.strip().split()
     corrections = []
     correction_indexs = set()
@@ -133,7 +135,6 @@ def find_word_corrections(q, reader):
             else:
                 result += str(q[i]) + " "
         result += '" ?'
-    print("result = ", result)
     return result
 
 
