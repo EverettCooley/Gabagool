@@ -61,7 +61,7 @@ def main():
 			if que[0] not in visited:
 				print(pageCount)
 				pageCount += getPage(que[0], pageCount)
-				time.sleep(1.5)
+				time.sleep(1)
 			else:
 				
 				que.pop(0)
@@ -199,14 +199,14 @@ def createMatrix():
 	# Create list of sets where each set contains a key and a link
 	# Then convert the list to a dataframe and use crosstab to get our adjacency matrix
 	# ******* CAN REMOVE OR COMMENT OUT LATER KEEPING FOR SCRAPING ***********
-	# with open('linkDictionary.pickle', 'wb') as handle:
-	# 	pickle.dump(linkDict, handle, protocol=-1)
-	# with open('myque.pickle', 'wb') as h:
-	# 	pickle.dump(que, h, protocol=-1)
-	# with open('visit.pickle', 'wb') as h:
-	# 	pickle.dump(visited, h, protocol=-1)
-	# with open('scraped.pickle', 'wb') as h:
-	# 	pickle.dump(scraped, h, protocol=-1)
+	with open('linkDictionary.pickle', 'wb') as handle:
+		pickle.dump(linkDict, handle, protocol=-1)
+	with open('myque.pickle', 'wb') as h:
+		pickle.dump(que, h, protocol=-1)
+	with open('visit.pickle', 'wb') as h:
+		pickle.dump(visited, h, protocol=-1)
+	with open('scraped.pickle', 'wb') as h:
+		pickle.dump(scraped, h, protocol=-1)
 	linkSets = [(j,k) for j , i in linkDict.items() for k in i]
 	df = pandas.DataFrame(linkSets)
 	matrix = pandas.crosstab(df[0], df[1])
@@ -241,3 +241,4 @@ def checkLink(url):
 
 if __name__ == '__main__':
 	main()
+

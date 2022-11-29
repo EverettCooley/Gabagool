@@ -111,9 +111,9 @@ def main():
 
 	
 	# Check if index directory exists if not create it and build it otherwise open dir
-	if not os.path.exists("../src/myIndex"):
-		os.mkdir("../src/myIndex")
-		ix = createIndex("finalFiles")
+	if not os.path.exists("myIndex"):
+		os.mkdir("myIndex")
+		ix = createIndex("pages")
 	else:
 		ix = index.open_dir("myIndex")
 
