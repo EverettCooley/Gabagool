@@ -13,8 +13,7 @@ In Command Line:
 
 #### In Browser Type
 ``` http://127.0.0.1:5000 ```
-#### Then run app
-``` flask run ```
+
 
 
 
