@@ -14,6 +14,10 @@ In Command Line:
 #### In Browser Type
 ``` http://127.0.0.1:5000 ```
 
+### Side Notes
+
+ + Whoosh index built over smaller dataset of 2k pages to save space
+
 
 
 
