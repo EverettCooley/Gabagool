@@ -15,6 +15,7 @@ from whoosh.qparser import MultifieldParser
 from whoosh import qparser
 from whoosh import scoring
 import pickle
+import urllib.request
 
 # sys.path.insert(1, './src/helperCode')
 # import t
@@ -61,6 +62,13 @@ def complete():
 def my_link():
     print('I got clicked!')
     return 'Click.' 
+
+@app.route('/valid/', methods=['GET','POST'])
+def valid():
+    req = request.get_json()
+    url = req['message']
+    code = urllib.request.urlopen("https://stackoverflow.com").getcode()
+    return make_response(jsonify(code), 200)
 
 # Load results page
 @app.route('/results/', methods=['GET', 'POST'])

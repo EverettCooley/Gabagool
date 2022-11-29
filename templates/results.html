@@ -33,8 +33,39 @@
 			<div class="tiles-container">
 			{% for title, content in results %}
 			<div class="tile">
-				<a href="{{title}}" target="_blank">{{title}}</a>
+				<a href="{{title}}" onclick="check_url();" target="_blank">{{title}}</a>
 				<p class="content">{{content}}</p>
+				<script>
+					function check_url(){
+						console.log('{{ title }}')
+						var entry = {
+							"message": '{{ title }}'
+						};
+
+						fetch(`${window.origin}/valid`, {
+							method: 'POST',
+							headers: {
+								'Content-Type': 'application/json'
+							},
+							body: JSON.stringify(entry)
+						}).then(function(response) {
+							if (response.status !== 200) {
+								console.log('Looks like there was a problem.');
+								return;
+							}
+							response.json().then(function(data) {
+								console.log(data);
+								var code = Number(data)
+								if (code == 404){
+									window.location.href = 'http://localhost:5000/fourofour';
+								}
+								else if(code != 200){
+									window.location.href = 'http://localhost:5000/dead_page.html';
+								}
+							});
+						});
+					};
+				</script>
 			</div>
 			{% endfor %}
 		</div>
@@ -42,6 +73,7 @@
 		<form method="post" action="{{ url_for('index') }}">
 			<input type="submit" value="Return" />
 		</form>	
+		
 	</body>	
 </html>
 
