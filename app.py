@@ -79,7 +79,7 @@ def pageresult():
     page_n = data.get('page')
     cat = data.get('category') 
 
-    page_n = page_n.split()
+    page_n = page_n.split(',')
     query = str(page_n[0])
     page_n = int(page_n[1])
 
@@ -91,7 +91,7 @@ def pageresult():
     global mySearcher
     # Create searcher and search
     mySearcher = MyWhooshSearcher()
-    titles, descriptions = mySearcher.search(query, cat) 
+    titles, descriptions, compQ = mySearcher.search(query, cat) 
 
     urls = []
     contents = []
@@ -116,7 +116,7 @@ def pageresult():
     spelling_correction = find_word_corrections(query, mySearcher.reader)
     urls = urls[(page_n*10)-10:page_n*10]
     contents = contents[(page_n*10)-10:page_n*10]
-    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction)
+    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction, compQ=str(compQ))
 
 # Load results page
 @app.route('/results/', methods=['GET', 'POST'])
@@ -135,7 +135,7 @@ def results():
 
     # Create searcher and search
     mySearcher = MyWhooshSearcher()
-    titles, descriptions = mySearcher.search(query, cat) 
+    titles, descriptions, compQ = mySearcher.search(query, cat) 
 
     urls = []
     contents = []
@@ -152,7 +152,7 @@ def results():
             result = find_substring(description, word)
             if result != 0:
                 current_desc = " ".join(result)
-        if current_desc == '':
+        if current_desc == '': 
             description = description.split()
             current_desc = " ".join(description[:20])
         contents.append(current_desc)
@@ -160,7 +160,7 @@ def results():
     spelling_correction = find_word_corrections(query, mySearcher.reader)
     urls = urls[:10]
     contents = contents[:10]
-    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction)
+    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction, compQ=str(compQ))
 
 # corrects spelling of query
 def find_word_corrections(q, reader):
@@ -206,45 +206,7 @@ def find_substring(base, term):
             return base[i-10:i+10]
     return 0
 
-# ******* NO LONGER IN USE. WILL REMOVE ON FINAL REFACTOR ******
-@app.route('/resultList', methods=['GET', 'POST'])
-def resultList():
-    if request.method == 'POST':
-        data = request.form 
-    else:
-        data = request.args 
-    string = data.get('type')
-    #print(f'String is: {string}')
-    images=''
-    with open(f'../HW4/pagesMe/{string}', 'r') as f:
-        for line in f:
-            if line.startswith("Images:"):
-                images = line[9:len(line)-2].strip("'").split(',')
-                for img in range(len(images)):
-                    try:
-                        images[img] = images[img][:images[img].index(".png") + 4]
-                    except:
-                        try:
-                            images[img] = images[img][:images[img].index(".jpg") + 4]
-                        except:
-                            continue
-                      
-                
-    with open(f'../HW4/pagesMe/{string}', 'r') as f:
-        text = f.read()
-    return render_template('content.html', text=text, images=images)
 
-def loadImages(f):
-    with open(f'../HW4/pagesMe/{string}', 'r') as f:
-        for line in f:
-            if line.startswith("Images:"):
-                images = line[9:len(line)-2].strip("'").split(',')
-                for img in range(len(images)):
-                    images[img] = images[img][:images[img].index(".png") + 4]
-                return(images)
-    return(images)
-
-# ******** END OF REMOVE BLOCK *******
 
 # Whoosh searcher using page rank
 class MyWhooshSearcher(object):
@@ -263,9 +225,12 @@ class MyWhooshSearcher(object):
         # Make query multi field searcher and make disjunctive search
         indexer = whoosh.index.open_dir("./src/myIndex")
         with indexer.searcher() as search:
-            query = MultifieldParser(['title', 'textdata'], schema=indexer.schema)
-            query = query.parse(queryEntered)
-            query = Or(query)
+            if queryEntered:
+                query = MultifieldParser(['title', 'textdata'], schema=indexer.schema)
+                query = query.parse(queryEntered)
+                query = Or(query)
+            else:
+                query = ''
 
 
             # If we have a category we will do conjunctive search for query and category keyword
@@ -273,8 +238,11 @@ class MyWhooshSearcher(object):
                 # Only searching keyword field for categories then conjunctive search with query
                 catQuery = MultifieldParser(['categories'], schema=indexer.schema)
                 catQuery = catQuery.parse(category) 
-                combinedQuery = And([catQuery, query])
-                results = search.search(combinedQuery, limit=None)
+                if queryEntered:
+                    query = And([catQuery, query])
+                else:
+                    query = catQuery
+                results = search.search(query, limit=None)
             else:
                 results = search.search(query, limit=None)
 
@@ -284,8 +252,6 @@ class MyWhooshSearcher(object):
             # Iterate through results to match titles 
             for i in results:
                 if i['title'] in myDict:
-                    #newDict[i['title']] = myDict[i['title']]
-                    #print(f"{i['title']} {myDict[i['title']]}")
                     prScoresDict[i['title']] = myDict[i['title']]
              
             sortedDict = dict(sorted(prScoresDict.items(), key=lambda x:float(x[1]), reverse=True))
@@ -298,7 +264,7 @@ class MyWhooshSearcher(object):
             title = list(sortedDict.keys())
             description = list(sortedDict.values())
             
-        return title, description
+        return title, description, query
 
     # ****** DON'T NEED THIS ********
     # ****** SEE HW4 FOLDER FOR BUILDING INDEX *****
