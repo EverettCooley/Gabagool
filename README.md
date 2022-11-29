@@ -8,6 +8,7 @@
 Download git repository
 
 #### Navigate to directory ``` Gabagool-main ```
+In Command Line:
 ``` python3 app.py ```
 
 #### In Browser Type
