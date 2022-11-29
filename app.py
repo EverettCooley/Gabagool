@@ -262,9 +262,6 @@ class MyWhooshSearcher(object):
 if __name__ == '__main__':
     global mySearcher
     mySearcher = MyWhooshSearcher()
-    mySearcher.index()
-    #title, description = mySearcher.search('hello')
-    #print(title)
     app.run(debug=True)
 
 
