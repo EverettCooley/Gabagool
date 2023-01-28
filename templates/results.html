@@ -5,20 +5,30 @@
 	<head>
 		<meta charset="UTF-8">
 		<link rel="stylesheet" href="{{ url_for('static', filename='../static/css/main.css') }}">
+		<link rel="stylesheet" href="{{ url_for('static', filename='../static/css/index.css') }}">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 		<title>Results</title>
 	</head>
 
 	<body>
 
 		<form method="get" action="{{ url_for('results') }}">
-			<label for="searchterm">The Gabagool</label><br/>
+			<label for="searchterm">
+				<h1>
+					<a href="/" target="blank"><img src="{{ url_for('static', filename='../static/css/logo.png') }}" width="15%" height="15%" />
+					</a> The Gabagool
+				</h1>
+			</label>
+			<br/>
+
 			<!-- <input type="text" name="searchterm" /><br /> -->
-			<input type="text" autocomplete="off" name='test'/>
+			<input type="text" autocomplete="on" name='test' value="{{query}}" />
 			<input type="submit" value="Go" />
 			<p class="did-you-mean">{{spelling_correction}}</p>
  
 			<div>
 				<label>Select Category</label>
+				<br>
 				<select name="category" method="get" action="{{ url_for('results') }}">
 	  				<option value="" selected></option>
 	  				{% for cat in categories[2:] %}
@@ -27,57 +37,42 @@
 				</select>
 			</div>
 			
-
+ 
 		</form>	 
 			<div class="tiles-container">
-			{% for title, content in results %}
+			
 			<div class="tile">
-				<a href="{{title}}" onclick="check_url();" target="_blank">{{title}}</a>
-				<p class="content">{{content}}</p>
-				<script>
-					function check_url(){
-						console.log('{{ title }}')
-						var entry = {
-							"message": '{{ title }}'
-						};
-
-						fetch(`${window.origin}/valid`, {
-							method: 'POST',
-							headers: {
-								'Content-Type': 'application/json'
-							},
-							body: JSON.stringify(entry)
-						}).then(function(response) {
-							if (response.status !== 200) {
-								console.log('Looks like there was a problem.');
-								return;
-							}
-							response.json().then(function(data) {
-								console.log(data);
-								var code = Number(data)
-								if (code == 404){
-									window.location.href = 'http://localhost:5000/fourofour';
-								}
-								else if(code != 200){
-									window.location.href = 'http://localhost:5000/dead_page.html';
-								}
-							});
-						});
-					};
-				</script>
+				{{pagination.info}}
+				<table >
+					<tbody>
+						
+						{% for title, content in results%}
+						<tr>
+							
+							<td>
+								
+								<a class="title-cont" href="{{title}}" onclick="check_url();" target="_blank">{{title}}</a>
+								<p class="content">{{content}}</p>
+							</td>
+							{% endfor %}
+						</tr>
+						
+					</tbody>
+				</table>
+				
+			
 			</div>
-			{% endfor %}
+			
 		</div>
+		<div > 
+		{{ pagination.links }}
+		
+	</div>
 	
 		<form method="post" action="{{ url_for('index') }}">
 			<input type="submit" value="Return" />
 		</form>	
 
-		<form method="get" action="{{ url_for('pageresult') }}">
-			<label for="searchterm"></label><br/>
-			<input id="search-input" autocomplete="off" type="text" name='page'/>
-			<input type="submit" value="Go" />
-		</form>
 	</body>	
 </html>
 
