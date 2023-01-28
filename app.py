@@ -180,7 +180,7 @@ class MyWhooshSearcher(object):
     """docstring for MyWhooshSearcher"""
     def __init__(self):
         #self.indexer = index.open_dir('myIndex')
-        self.ix = whoosh.index.open_dir('src/myIndexBig')
+        self.ix = whoosh.index.open_dir('src/myIndex')
         self.reader = self.ix.reader()
         super(MyWhooshSearcher, self).__init__()
          
@@ -190,7 +190,7 @@ class MyWhooshSearcher(object):
         description = list()
         
         # Make query multi field searcher and make disjunctive search
-        indexer = whoosh.index.open_dir("./src/myIndexBig")
+        indexer = whoosh.index.open_dir("./src/myIndex")
         with indexer.searcher() as search:
             if queryEntered:
                 query = MultifieldParser(['title', 'textdata'], schema=indexer.schema)
