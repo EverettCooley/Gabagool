@@ -24,7 +24,7 @@ import urllib.request
 app = Flask(__name__)
 
 # Open our dictionary containing page rank values
-with open('./src/pickles/pageRankBig.pickle','rb') as handle:
+with open('./src/pickles/pageRank.pickle','rb') as handle:
     myDict = pickle.load(handle)
 
 # Open category list
