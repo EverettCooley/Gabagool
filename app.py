@@ -5,6 +5,7 @@
 
 
 from flask import Flask, render_template, request, make_response, jsonify
+from flask_paginate import Pagination, get_page_parameter
 import whoosh
 from whoosh.index import create_in
 from whoosh.index import open_dir
@@ -23,11 +24,11 @@ import urllib.request
 app = Flask(__name__)
 
 # Open our dictionary containing page rank values
-with open('./src/pickles/pageRank.pickle','rb') as handle:
+with open('./src/pickles/pageRankBig.pickle','rb') as handle:
     myDict = pickle.load(handle)
 
 # Open category list
-with open("./src/pickles/categoryList.pickle", "rb") as handle:
+with open("./src/pickles/categoryListBig.pickle", "rb") as handle:
     categories = pickle.load(handle)
 
 # Render Home Page
@@ -60,9 +61,10 @@ def complete():
 
 @app.route('/my-link/')
 def my_link():
-    print('I got clicked!')
+    #print('I got clicked!')
     return 'Click.' 
 
+# Handle valid pages. If not redirect to stack overflow
 @app.route('/valid/', methods=['GET','POST'])
 def valid():
     req = request.get_json()
@@ -70,53 +72,6 @@ def valid():
     code = urllib.request.urlopen("https://stackoverflow.com").getcode()
     return make_response(jsonify(code), 200)
 
-@app.route('/pageresult/', methods=['GET','POST'])
-def pageresult():
-    if request.method == 'POST':
-        data = request.form
-    else:
-        data = request.args
-    page_n = data.get('page')
-    cat = data.get('category') 
-
-    page_n = page_n.split(',')
-    query = str(page_n[0])
-    page_n = int(page_n[1])
-
-    print(page_n)
-    print(query)
-    print(cat)
-
-
-    global mySearcher
-    # Create searcher and search
-    mySearcher = MyWhooshSearcher()
-    titles, descriptions, compQ = mySearcher.search(query, cat) 
-
-    urls = []
-    contents = []
-
-    # Grab descriptions and external link
-    for i, description in enumerate(descriptions):
-        temp = description.split('\n', 1)
-        urls.append(temp[0][6:])
-        description = temp[1]
-        #print(description)
-
-        current_desc = ''
-        for word in query.split():
-            result = find_substring(description, word)
-            if result != 0:
-                current_desc = " ".join(result)
-        if current_desc == '':
-            description = description.split()
-            current_desc = " ".join(description[:20])
-        contents.append(current_desc)
-
-    spelling_correction = find_word_corrections(query, mySearcher.reader)
-    urls = urls[(page_n*10)-10:page_n*10]
-    contents = contents[(page_n*10)-10:page_n*10]
-    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction, compQ=str(compQ))
 
 # Load results page
 @app.route('/results/', methods=['GET', 'POST'])
@@ -145,7 +100,7 @@ def results():
         temp = description.split('\n', 1)
         urls.append(temp[0][6:])
         description = temp[1]
-        #print(description)
+        #print(description) 
 
         current_desc = ''
         for word in query.split():
@@ -158,9 +113,21 @@ def results():
         contents.append(current_desc)
 
     spelling_correction = find_word_corrections(query, mySearcher.reader)
-    urls = urls[:10]
-    contents = contents[:10]
-    return render_template('results.html', query=query, results=zip(urls,contents), categories=categories, spelling_correction=spelling_correction, compQ=str(compQ))
+    # urls = urls[:10]
+    # contents = contents[:10]
+    try:
+        page = int(request.args.get('page',1))
+    except ValueError:
+        page=1
+
+    # Return 10 results per page
+    offset=(page-1)*10
+    results = zip(urls[offset:offset+10],contents[offset:offset+10])
+    frameWork = 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'
+
+    # Call pagination method to get page info
+    pagination = Pagination(page=page,total=len(urls),per_page=10, record_name='results')
+    return render_template('results.html', pagination=pagination,query=query, results=results, categories=categories, spelling_correction=spelling_correction, compQ=str(compQ))
 
 # corrects spelling of query
 def find_word_corrections(q, reader):
@@ -213,7 +180,7 @@ class MyWhooshSearcher(object):
     """docstring for MyWhooshSearcher"""
     def __init__(self):
         #self.indexer = index.open_dir('myIndex')
-        self.ix = whoosh.index.open_dir('src/myIndex')
+        self.ix = whoosh.index.open_dir('src/myIndexBig')
         self.reader = self.ix.reader()
         super(MyWhooshSearcher, self).__init__()
          
@@ -223,12 +190,12 @@ class MyWhooshSearcher(object):
         description = list()
         
         # Make query multi field searcher and make disjunctive search
-        indexer = whoosh.index.open_dir("./src/myIndex")
+        indexer = whoosh.index.open_dir("./src/myIndexBig")
         with indexer.searcher() as search:
             if queryEntered:
                 query = MultifieldParser(['title', 'textdata'], schema=indexer.schema)
                 query = query.parse(queryEntered)
-                query = Or(query)
+                #query = Or(query)
             else:
                 query = ''
 
@@ -266,7 +233,7 @@ class MyWhooshSearcher(object):
             
         return title, description, query
 
-    # ****** DON'T NEED THIS ********
+    # ****** DON'T NEED THIS WAS USED FOR BUILDING INDEX ********
     # ****** SEE HW4 FOLDER FOR BUILDING INDEX *****
     # def index(self):
     #     schema = Schema(id=ID(stored=True), title=TEXT(stored=True), description=TEXT(stored=True))
