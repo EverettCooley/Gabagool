@@ -28,7 +28,7 @@ with open('./src/pickles/pageRank.pickle','rb') as handle:
     myDict = pickle.load(handle)
 
 # Open category list
-with open("./src/pickles/categoryListBig.pickle", "rb") as handle:
+with open("./src/pickles/categoryList.pickle", "rb") as handle:
     categories = pickle.load(handle)
 
 # Render Home Page
