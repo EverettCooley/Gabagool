@@ -17,8 +17,12 @@ body {
     font-size: 24px;
     line-height: 1.5;
     margin: 0 auto;
-    max-width: 800px;
+    width: 100%;
+    /*max-width: 800px;*/
     padding: 2em 2em 4em;
+}
+.text-input {
+    width: 50%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,14 +31,14 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.3;
 }
 
-table {
+table{
     width: 100%;
     border-collapse: collapse;
 }
 
-table, th, td {
+/*table, th, td {
     border: 1px solid black;
-}
+}*/
 
 th {
     text-align: left;
@@ -45,22 +49,34 @@ th {
 
 td {
     text-align: left;
-    background: #5c5590;
-    color: #e98eff;
+    background: white;
+    /*color: #e98eff;*/
+    padding: 10px;
+   
 }
 select {
-    width:  100%;
+    width:  25%;
 }
+.home-form {
+    display: flex;
+    justify-content: center;
+}
+/*a {
+    font-size: 1.875em;;
+}*/
 
 .blueText{
     color: #000afd;
     display: inline;
 }
-.center {
+.center1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  max-width: 50%;
+  margin-bottom: 0px;
+  
+  
 }
 
 #redText{
@@ -81,12 +97,16 @@ select {
     padding: 10px;
     margin: 5px;
     border-radius: 10px;
-    background-color: #F2F2F2;
+    /*background-color: blue;*/
 }
 
 .content{
     margin: 0px;
     padding: 0px;
+    font-size: 1.875em;
+}
+.title-cont {
+    font-size: 2.5em;
 }
 
 .search-bar-container {
@@ -111,5 +131,38 @@ select {
 .did-you-mean {
     font-size: .5em;
     font-style: italic;
+}
+
+
+
+.pagination-page-links a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.pagination-page-links a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.pagination-page-links a:hover:not(.active) {background-color: #ddd;}
+
+.pagination-page-info {
+    padding: .6em;
+    padding-left: 0;
+    width: 40em;
+    margin: .5em;
+    margin-left: 0;
+    font-size: 12px;
+}
+
+.pagination-page-info b {
+    color: black;
+    background: #6aa6ed;
+    padding-left: 2px;
+    padding: .1em .25em;
+    font-size: 150%;
 }
 >>>>>>> autocomplete-spell-checker
