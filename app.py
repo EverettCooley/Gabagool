@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, make_response, jsonify
 from flask_paginate import Pagination, get_page_parameter
 import whoosh
+import os
 from whoosh.index import create_in
 from whoosh.index import open_dir
 from whoosh.fields import *
@@ -246,6 +247,7 @@ class MyWhooshSearcher(object):
 if __name__ == '__main__':
     global mySearcher
     mySearcher = MyWhooshSearcher()
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=True)
 
 
