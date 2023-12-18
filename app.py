@@ -1,9 +1,3 @@
-# Authors: Antonio Maniscalco, Everette Cooley
-# CS 454 Final Project: 'The Gabagool' Recipe Search Engine
-# Main Driver file
-# Skeleton code provided by Dr. McCamish
-
-
 from flask import Flask, render_template, request, make_response, jsonify
 from flask_paginate import Pagination, get_page_parameter
 import whoosh
